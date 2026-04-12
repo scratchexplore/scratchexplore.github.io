@@ -9,7 +9,7 @@
     "loves": 38,
     "favorites": 31,
     "views": 179,
-    "weight": 2.745873973428058,
+    "weight": 2.711917942473891,
     "username": "levitm"
   },
   {
@@ -22,7 +22,7 @@
     "loves": 2376,
     "favorites": 2127,
     "views": 47728,
-    "weight": 2.5053288974054677,
+    "weight": 2.482965831681759,
     "username": "mocca200"
   },
   {
@@ -35,7 +35,7 @@
     "loves": 39,
     "favorites": 37,
     "views": 292,
-    "weight": 2.3977579350868155,
+    "weight": 2.3462856721374625,
     "username": "King_David_007"
   },
   {
@@ -48,7 +48,7 @@
     "loves": 5,
     "favorites": 3,
     "views": 50,
-    "weight": 2.2652369189209565,
+    "weight": 2.222071881256371,
     "username": "Echo-517"
   },
   {
@@ -61,7 +61,7 @@
     "loves": 274,
     "favorites": 249,
     "views": 1850,
-    "weight": 2.249811832089978,
+    "weight": 2.214982297328881,
     "username": "fortyonegames"
   },
   {
@@ -74,7 +74,7 @@
     "loves": 46,
     "favorites": 41,
     "views": 241,
-    "weight": 2.097734096182459,
+    "weight": 2.0760047626721425,
     "username": "ChuckSploder"
   },
   {
@@ -87,7 +87,7 @@
     "loves": 17,
     "favorites": 9,
     "views": 105,
-    "weight": 2.063792812766963,
+    "weight": 2.0417730074866074,
     "username": "axolotan"
   },
   {
@@ -100,7 +100,7 @@
     "loves": 10,
     "favorites": 7,
     "views": 47,
-    "weight": 2.035287164071491,
+    "weight": 1.9567135334077557,
     "username": "littlebunny06"
   },
   {
@@ -113,7 +113,7 @@
     "loves": 6,
     "favorites": 4,
     "views": 13,
-    "weight": 1.9604050945942553,
+    "weight": 1.9167118249824768,
     "username": "sadie_is_awesome"
   },
   {
@@ -126,7 +126,7 @@
     "loves": 2071,
     "favorites": 1948,
     "views": 12747,
-    "weight": 1.8606100920740671,
+    "weight": 1.8555105184149423,
     "username": "GL00B"
   },
   {
@@ -139,7 +139,7 @@
     "loves": 20,
     "favorites": 13,
     "views": 117,
-    "weight": 1.836855462533304,
+    "weight": 1.7874012924989031,
     "username": "grandpasp"
   },
   {
@@ -152,7 +152,7 @@
     "loves": 8,
     "favorites": 6,
     "views": 37,
-    "weight": 1.8009632177915045,
+    "weight": 1.7640099018472015,
     "username": "LLMModel"
   },
   {
@@ -165,7 +165,7 @@
     "loves": 21,
     "favorites": 20,
     "views": 213,
-    "weight": 1.7711218587290933,
+    "weight": 1.7162887825234094,
     "username": "dinox9"
   },
   {
@@ -178,7 +178,7 @@
     "loves": 9,
     "favorites": 10,
     "views": 30,
-    "weight": 1.710107218862826,
+    "weight": 1.6884851657330051,
     "username": "sadie_is_awesome"
   },
   {
@@ -191,21 +191,8 @@
     "loves": 5,
     "favorites": 4,
     "views": 24,
-    "weight": 1.6601697368574113,
+    "weight": 1.6353276832975503,
     "username": "TheGrandPiano24"
-  },
-  {
-    "count": 1,
-    "id": 1294123443,
-    "title": "GridBound | Game",
-    "shared": "2026-04-05T10:07:10.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1294123443_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/23024346_32x32.png?v=",
-    "loves": 64,
-    "favorites": 51,
-    "views": 299,
-    "weight": 1.6493191622168555,
-    "username": "samkov"
   },
   {
     "count": 3,
@@ -217,8 +204,21 @@
     "loves": 117,
     "favorites": 113,
     "views": 828,
-    "weight": 1.6306458141812692,
+    "weight": 1.625800092104885,
     "username": "ChuckSploder"
+  },
+  {
+    "count": 1,
+    "id": 1294123443,
+    "title": "GridBound | Game",
+    "shared": "2026-04-05T10:07:10.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1294123443_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/23024346_32x32.png?v=",
+    "loves": 64,
+    "favorites": 51,
+    "views": 299,
+    "weight": 1.6257160928220524,
+    "username": "samkov"
   },
   {
     "count": 2,
@@ -230,7 +230,7 @@
     "loves": 17,
     "favorites": 12,
     "views": 93,
-    "weight": 1.619599419049346,
+    "weight": 1.612074699003917,
     "username": "finnagin5"
   },
   {
@@ -243,7 +243,7 @@
     "loves": 247,
     "favorites": 194,
     "views": 1930,
-    "weight": 1.6152840061237128,
+    "weight": 1.606720564090159,
     "username": "MathematicProjects"
   },
   {
@@ -256,21 +256,8 @@
     "loves": 217,
     "favorites": 199,
     "views": 1570,
-    "weight": 1.5963182355099648,
+    "weight": 1.5703606713149338,
     "username": "nembence"
-  },
-  {
-    "count": 1,
-    "id": 1281555909,
-    "title": "Final results | PMMA S2R3",
-    "shared": "2026-04-04T17:05:01.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1281555909_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/151298398_32x32.png?v=",
-    "loves": 9,
-    "favorites": 5,
-    "views": 49,
-    "weight": 1.5818170305888384,
-    "username": "CallenAlt"
   },
   {
     "count": 2,
@@ -282,8 +269,21 @@
     "loves": 63,
     "favorites": 54,
     "views": 393,
-    "weight": 1.573623182650596,
+    "weight": 1.5665127793117548,
     "username": "12zend"
+  },
+  {
+    "count": 1,
+    "id": 1281555909,
+    "title": "Final results | PMMA S2R3",
+    "shared": "2026-04-04T17:05:01.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1281555909_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/151298398_32x32.png?v=",
+    "loves": 9,
+    "favorites": 5,
+    "views": 49,
+    "weight": 1.5605813444965246,
+    "username": "CallenAlt"
   },
   {
     "count": 1,
@@ -295,7 +295,7 @@
     "loves": 2,
     "favorites": 3,
     "views": 23,
-    "weight": 1.5719034010805877,
+    "weight": 1.5428292352394635,
     "username": "Stever3210"
   },
   {
@@ -308,7 +308,7 @@
     "loves": 19,
     "favorites": 16,
     "views": 92,
-    "weight": 1.518324653515075,
+    "weight": 1.5020110892809542,
     "username": "--Enchanter--"
   },
   {
@@ -321,7 +321,7 @@
     "loves": 31,
     "favorites": 31,
     "views": 126,
-    "weight": 1.5152387475128315,
+    "weight": 1.500806719230963,
     "username": "sakura_neko"
   },
   {
@@ -334,7 +334,7 @@
     "loves": 535,
     "favorites": 497,
     "views": 5613,
-    "weight": 1.481377073263271,
+    "weight": 1.4775724503737022,
     "username": "-RipeMangoes-"
   },
   {
@@ -347,7 +347,7 @@
     "loves": 31,
     "favorites": 15,
     "views": 78,
-    "weight": 1.4571091693216018,
+    "weight": 1.4486702230665207,
     "username": "-opalescence"
   },
   {
@@ -360,21 +360,8 @@
     "loves": 768,
     "favorites": 724,
     "views": 3384,
-    "weight": 1.4157169334417288,
+    "weight": 1.411632042610973,
     "username": "EnderPlaySmash"
-  },
-  {
-    "count": 1,
-    "id": 1296592371,
-    "title": "Mr. Banario",
-    "shared": "2026-04-01T21:33:21.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1296592371_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/154200340_32x32.png?v=",
-    "loves": 9,
-    "favorites": 6,
-    "views": 77,
-    "weight": 1.4107037345308446,
-    "username": "positivedifference"
   },
   {
     "count": 3,
@@ -386,8 +373,21 @@
     "loves": 852,
     "favorites": 790,
     "views": 10824,
-    "weight": 1.400901650135658,
+    "weight": 1.3976644974625467,
     "username": "Mewtwo1998"
+  },
+  {
+    "count": 1,
+    "id": 1296592371,
+    "title": "Mr. Banario",
+    "shared": "2026-04-01T21:33:21.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1296592371_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/154200340_32x32.png?v=",
+    "loves": 9,
+    "favorites": 6,
+    "views": 77,
+    "weight": 1.3953449717431425,
+    "username": "positivedifference"
   },
   {
     "count": 3,
@@ -399,7 +399,7 @@
     "loves": 956,
     "favorites": 872,
     "views": 7025,
-    "weight": 1.3939879580891248,
+    "weight": 1.3912031482187184,
     "username": "louisrk"
   },
   {
@@ -412,7 +412,7 @@
     "loves": 5,
     "favorites": 2,
     "views": 66,
-    "weight": 1.3906652524343197,
+    "weight": 1.3741889984526365,
     "username": "sorobansuki"
   },
   {
@@ -425,21 +425,8 @@
     "loves": 39,
     "favorites": 39,
     "views": 257,
-    "weight": 1.3654838068636792,
+    "weight": 1.3535579476020985,
     "username": "jenton2001"
-  },
-  {
-    "count": 1,
-    "id": 1279886520,
-    "title": "Strike Shift — Game Jam Entry",
-    "shared": "2026-04-03T05:25:59.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1279886520_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/114901864_32x32.png?v=",
-    "loves": 1,
-    "favorites": 1,
-    "views": 14,
-    "weight": 1.3599504186066962,
-    "username": "NutOfCoco"
   },
   {
     "count": 2,
@@ -451,8 +438,21 @@
     "loves": 288,
     "favorites": 224,
     "views": 1089,
-    "weight": 1.3475788206655437,
+    "weight": 1.3444238575104799,
     "username": "ReinGear"
+  },
+  {
+    "count": 1,
+    "id": 1279886520,
+    "title": "Strike Shift — Game Jam Entry",
+    "shared": "2026-04-03T05:25:59.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1279886520_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/114901864_32x32.png?v=",
+    "loves": 1,
+    "favorites": 1,
+    "views": 14,
+    "weight": 1.3437246700207768,
+    "username": "NutOfCoco"
   },
   {
     "count": 1,
@@ -464,7 +464,7 @@
     "loves": 37,
     "favorites": 33,
     "views": 301,
-    "weight": 1.3374656047598903,
+    "weight": 1.3256018083030756,
     "username": "asdf1546"
   },
   {
@@ -477,7 +477,7 @@
     "loves": 6,
     "favorites": 2,
     "views": 27,
-    "weight": 1.32459392158414,
+    "weight": 1.3159507298460622,
     "username": "Brezel640"
   },
   {
@@ -490,7 +490,7 @@
     "loves": 40,
     "favorites": 28,
     "views": 361,
-    "weight": 1.3217289506332883,
+    "weight": 1.3100428360077219,
     "username": "-360coder-"
   },
   {
@@ -503,7 +503,7 @@
     "loves": 23,
     "favorites": 24,
     "views": 236,
-    "weight": 1.3193453145511818,
+    "weight": 1.3072648573670083,
     "username": "christopher333r"
   },
   {
@@ -516,7 +516,7 @@
     "loves": 165,
     "favorites": 146,
     "views": 1138,
-    "weight": 1.3143479715397401,
+    "weight": 1.304037216248037,
     "username": "Adnan-Star"
   },
   {
@@ -529,7 +529,7 @@
     "loves": 539,
     "favorites": 468,
     "views": 4395,
-    "weight": 1.306422116542307,
+    "weight": 1.3025655574629136,
     "username": "Fun_Random_Games"
   },
   {
@@ -542,7 +542,7 @@
     "loves": 77,
     "favorites": 69,
     "views": 483,
-    "weight": 1.2931561532339848,
+    "weight": 1.2839145733097201,
     "username": "12zend"
   },
   {
@@ -555,7 +555,7 @@
     "loves": 801,
     "favorites": 705,
     "views": 3391,
-    "weight": 1.2829516311888305,
+    "weight": 1.2801468836108554,
     "username": "Derble"
   },
   {
@@ -568,7 +568,7 @@
     "loves": 18,
     "favorites": 12,
     "views": 123,
-    "weight": 1.2823505808019229,
+    "weight": 1.278942596450886,
     "username": "finnagin5"
   },
   {
@@ -581,7 +581,7 @@
     "loves": 493,
     "favorites": 423,
     "views": 3188,
-    "weight": 1.277671705406466,
+    "weight": 1.2743720213290277,
     "username": "nakakouTV"
   },
   {
@@ -594,7 +594,7 @@
     "loves": 147,
     "favorites": 118,
     "views": 795,
-    "weight": 1.2708164080260584,
+    "weight": 1.2627899803110358,
     "username": "Kaspera2"
   },
   {
@@ -607,21 +607,8 @@
     "loves": 11,
     "favorites": 7,
     "views": 41,
-    "weight": 1.2676466987542165,
+    "weight": 1.261181616537316,
     "username": "2085clicks"
-  },
-  {
-    "count": 2,
-    "id": 1280197736,
-    "title": "PCVIII Info and Signup",
-    "shared": "2026-02-16T20:21:32.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1280197736_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/165351956_32x32.png?v=",
-    "loves": 20,
-    "favorites": 23,
-    "views": 411,
-    "weight": 1.2649052946138113,
-    "username": "Platformerclash-VIII"
   },
   {
     "count": 2,
@@ -633,8 +620,21 @@
     "loves": 148,
     "favorites": 131,
     "views": 1692,
-    "weight": 1.264767215205021,
+    "weight": 1.2610392761675138,
     "username": "hupro2007"
+  },
+  {
+    "count": 2,
+    "id": 1280197736,
+    "title": "PCVIII Info and Signup",
+    "shared": "2026-02-16T20:21:32.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1280197736_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/165351956_32x32.png?v=",
+    "loves": 20,
+    "favorites": 23,
+    "views": 411,
+    "weight": 1.2607908956569898,
+    "username": "Platformerclash-VIII"
   },
   {
     "count": 2,
@@ -646,7 +646,7 @@
     "loves": 11,
     "favorites": 5,
     "views": 85,
-    "weight": 1.257924609636882,
+    "weight": 1.2546197137419983,
     "username": "Echo-517"
   },
   {
@@ -659,7 +659,7 @@
     "loves": 2356,
     "favorites": 2062,
     "views": 9434,
-    "weight": 1.2471344557512978,
+    "weight": 1.2446678694823863,
     "username": "-BB8-"
   },
   {
@@ -672,7 +672,7 @@
     "loves": 43,
     "favorites": 33,
     "views": 345,
-    "weight": 1.2355172687553015,
+    "weight": 1.227103268509927,
     "username": "--CHA0S--"
   },
   {
@@ -685,7 +685,7 @@
     "loves": 620,
     "favorites": 582,
     "views": 4818,
-    "weight": 1.2335161401769217,
+    "weight": 1.2252526332539222,
     "username": "global-games"
   },
   {
@@ -698,7 +698,7 @@
     "loves": 37,
     "favorites": 28,
     "views": 233,
-    "weight": 1.2293656535463742,
+    "weight": 1.2218586329303143,
     "username": "FruitFull_Gaming"
   },
   {
@@ -711,7 +711,7 @@
     "loves": 182,
     "favorites": 148,
     "views": 1675,
-    "weight": 1.224267433292974,
+    "weight": 1.2211227008816186,
     "username": "PokeNinjaGuy"
   },
   {
@@ -724,7 +724,7 @@
     "loves": 20,
     "favorites": 16,
     "views": 120,
-    "weight": 1.2238880292211571,
+    "weight": 1.2166672893865718,
     "username": "littlebunny06"
   },
   {
@@ -737,7 +737,7 @@
     "loves": 99,
     "favorites": 81,
     "views": 679,
-    "weight": 1.2221777180284974,
+    "weight": 1.2145881690929192,
     "username": "cheekybubba5"
   },
   {
@@ -750,7 +750,7 @@
     "loves": 8,
     "favorites": 7,
     "views": 86,
-    "weight": 1.2169938621100516,
+    "weight": 1.2137992902844765,
     "username": "Echo-517"
   },
   {
@@ -763,7 +763,7 @@
     "loves": 3,
     "favorites": 1,
     "views": 30,
-    "weight": 1.2097926327714428,
+    "weight": 1.2015244499581803,
     "username": "BurntM4rshmallow"
   },
   {
@@ -776,7 +776,7 @@
     "loves": 10,
     "favorites": 10,
     "views": 115,
-    "weight": 1.1995590483138048,
+    "weight": 1.1912710600834664,
     "username": "0823ils"
   },
   {
@@ -789,7 +789,7 @@
     "loves": 28,
     "favorites": 23,
     "views": 1515,
-    "weight": 1.1929353408003727,
+    "weight": 1.1829317450270966,
     "username": "AppleDESS"
   },
   {
@@ -802,21 +802,8 @@
     "loves": 8,
     "favorites": 8,
     "views": 35,
-    "weight": 1.1877462251492217,
+    "weight": 1.1822522173610688,
     "username": "-GiMaker-"
-  },
-  {
-    "count": 1,
-    "id": 1291020740,
-    "title": "Amethyst OS globe thing that everybody glazes",
-    "shared": "2026-03-14T11:22:07.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1291020740_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/135321258_32x32.png?v=",
-    "loves": 16,
-    "favorites": 14,
-    "views": 95,
-    "weight": 1.1820075198356925,
-    "username": "dinhtunga3dtsd"
   },
   {
     "count": 2,
@@ -828,21 +815,21 @@
     "loves": 786,
     "favorites": 720,
     "views": 6948,
-    "weight": 1.1794940898555397,
+    "weight": 1.1767734631806555,
     "username": "-KingMidas-"
   },
   {
     "count": 1,
-    "id": 1291794439,
-    "title": "Save the Souls",
-    "shared": "2026-03-16T18:32:11.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1291794439_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/97798020_32x32.png?v=",
-    "loves": 86,
-    "favorites": 74,
-    "views": 642,
-    "weight": 1.1708505355589522,
-    "username": "ChessProking-tm"
+    "id": 1291020740,
+    "title": "Amethyst OS globe thing that everybody glazes",
+    "shared": "2026-03-14T11:22:07.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1291020740_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/135321258_32x32.png?v=",
+    "loves": 16,
+    "favorites": 14,
+    "views": 95,
+    "weight": 1.175758806180934,
+    "username": "dinhtunga3dtsd"
   },
   {
     "count": 1,
@@ -854,8 +841,21 @@
     "loves": 13,
     "favorites": 12,
     "views": 51,
-    "weight": 1.1700281660098923,
+    "weight": 1.1651516232968315,
     "username": "Paulottix_Music"
+  },
+  {
+    "count": 1,
+    "id": 1291794439,
+    "title": "Save the Souls",
+    "shared": "2026-03-16T18:32:11.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1291794439_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/97798020_32x32.png?v=",
+    "loves": 86,
+    "favorites": 74,
+    "views": 642,
+    "weight": 1.164268219980362,
+    "username": "ChessProking-tm"
   },
   {
     "count": 1,
@@ -867,7 +867,7 @@
     "loves": 166,
     "favorites": 120,
     "views": 634,
-    "weight": 1.1466969572912649,
+    "weight": 1.1422520028764533,
     "username": "scratchstorycrew"
   },
   {
@@ -880,7 +880,7 @@
     "loves": 11,
     "favorites": 10,
     "views": 73,
-    "weight": 1.1406420523670022,
+    "weight": 1.134964972325171,
     "username": "BacKKat"
   },
   {
@@ -893,7 +893,7 @@
     "loves": 20,
     "favorites": 17,
     "views": 180,
-    "weight": 1.1386277852733049,
+    "weight": 1.1323709467401237,
     "username": "LLMModel"
   },
   {
@@ -906,7 +906,7 @@
     "loves": 425,
     "favorites": 330,
     "views": 2883,
-    "weight": 1.12524771324604,
+    "weight": 1.1198213112994544,
     "username": "FUZZIE-WEASEL"
   },
   {
@@ -919,7 +919,7 @@
     "loves": 11967,
     "favorites": 11087,
     "views": 72542,
-    "weight": 1.1089743483911267,
+    "weight": 1.1040696992874341,
     "username": "Supercube_123"
   },
   {
@@ -932,7 +932,7 @@
     "loves": 8,
     "favorites": 8,
     "views": 85,
-    "weight": 1.1001253130531907,
+    "weight": 1.0944139989408692,
     "username": "--_basic_--"
   },
   {
@@ -945,7 +945,7 @@
     "loves": 46,
     "favorites": 45,
     "views": 337,
-    "weight": 1.0891607367418554,
+    "weight": 1.0842491680106126,
     "username": "JukeboxGames"
   },
   {
@@ -958,7 +958,7 @@
     "loves": 71,
     "favorites": 56,
     "views": 802,
-    "weight": 1.0821719694320966,
+    "weight": 1.0767394550707265,
     "username": "LLMModel"
   },
   {
@@ -971,7 +971,7 @@
     "loves": 5063,
     "favorites": 4567,
     "views": 76184,
-    "weight": 1.0782979175237417,
+    "weight": 1.072606313110506,
     "username": "griffpatch"
   },
   {
@@ -984,7 +984,7 @@
     "loves": 39,
     "favorites": 39,
     "views": 284,
-    "weight": 1.0738961711124588,
+    "weight": 1.0692556675400797,
     "username": "costc075202"
   },
   {
@@ -997,7 +997,7 @@
     "loves": 2,
     "favorites": 2,
     "views": 46,
-    "weight": 1.0461465035060933,
+    "weight": 1.040762382524259,
     "username": "CallenAlt"
   },
   {
@@ -1010,7 +1010,7 @@
     "loves": 17,
     "favorites": 19,
     "views": 197,
-    "weight": 1.0391356312321116,
+    "weight": 1.0344742069634691,
     "username": "nembence"
   },
   {
@@ -1023,7 +1023,7 @@
     "loves": 118,
     "favorites": 105,
     "views": 3582,
-    "weight": 1.038854518088613,
+    "weight": 1.0334575897612117,
     "username": "D_O_X_I-dev"
   },
   {
@@ -1036,7 +1036,7 @@
     "loves": 322,
     "favorites": 313,
     "views": 2125,
-    "weight": 1.0340187976253947,
+    "weight": 1.030142642378995,
     "username": "louisrk"
   },
   {
@@ -1049,7 +1049,7 @@
     "loves": 4,
     "favorites": 6,
     "views": 24,
-    "weight": 1.0332921787610665,
+    "weight": 1.0295642777981242,
     "username": "Calengamer255"
   },
   {
@@ -1062,7 +1062,7 @@
     "loves": 33,
     "favorites": 26,
     "views": 210,
-    "weight": 1.0305499416780841,
+    "weight": 1.0267743282188906,
     "username": "aguirkinger"
   },
   {
@@ -1075,7 +1075,7 @@
     "loves": 3486,
     "favorites": 3197,
     "views": 64413,
-    "weight": 1.0254514468893094,
+    "weight": 1.0242932446580733,
     "username": "theChAOTiC"
   },
   {
@@ -1088,7 +1088,7 @@
     "loves": 3,
     "favorites": 5,
     "views": 61,
-    "weight": 1.024501113036001,
+    "weight": 1.0196222354061253,
     "username": "adeog_alt"
   },
   {
@@ -1101,21 +1101,8 @@
     "loves": 7,
     "favorites": 5,
     "views": 79,
-    "weight": 1.0176470857368303,
+    "weight": 1.0133738314614924,
     "username": "Catapult-Lab"
-  },
-  {
-    "count": 1,
-    "id": 1261458326,
-    "title": "Splat-former! 1",
-    "shared": "2026-03-05T23:47:30.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1261458326_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/117402457_32x32.png?v=",
-    "loves": 7486,
-    "favorites": 6653,
-    "views": 121311,
-    "weight": 1.0052469770205958,
-    "username": "sunnies101"
   },
   {
     "count": 4,
@@ -1127,8 +1114,21 @@
     "loves": 5150,
     "favorites": 4584,
     "views": 41855,
-    "weight": 1.0046251237819135,
+    "weight": 1.0039580169882374,
     "username": "Mr-Mathmatical"
+  },
+  {
+    "count": 1,
+    "id": 1261458326,
+    "title": "Splat-former! 1",
+    "shared": "2026-03-05T23:47:30.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1261458326_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/117402457_32x32.png?v=",
+    "loves": 7486,
+    "favorites": 6653,
+    "views": 121311,
+    "weight": 1.0008689605003505,
+    "username": "sunnies101"
   },
   {
     "count": 1,
@@ -1140,7 +1140,7 @@
     "loves": 2,
     "favorites": 1,
     "views": 16,
-    "weight": 0.998430793735616,
+    "weight": 0.9945736413723858,
     "username": "MewEight"
   },
   {
@@ -1153,7 +1153,7 @@
     "loves": 3,
     "favorites": 7,
     "views": 9,
-    "weight": 0.9970676624950173,
+    "weight": 0.9936757516564642,
     "username": "HayHayOliver"
   },
   {
@@ -1166,7 +1166,7 @@
     "loves": 2184,
     "favorites": 2018,
     "views": 23817,
-    "weight": 0.9938819747358928,
+    "weight": 0.9923191751198874,
     "username": "-KingMidas-"
   },
   {
@@ -1179,7 +1179,7 @@
     "loves": 61,
     "favorites": 46,
     "views": 349,
-    "weight": 0.9828540723877567,
+    "weight": 0.979820120432326,
     "username": "MarsChompsVenus"
   },
   {
@@ -1192,7 +1192,7 @@
     "loves": 60,
     "favorites": 54,
     "views": 966,
-    "weight": 0.9791520155836455,
+    "weight": 0.9751998122898011,
     "username": "THE-FLAMES"
   },
   {
@@ -1205,7 +1205,7 @@
     "loves": 16,
     "favorites": 14,
     "views": 112,
-    "weight": 0.9754975726798969,
+    "weight": 0.9723180274011483,
     "username": "sleepyanimator2026"
   },
   {
@@ -1218,7 +1218,7 @@
     "loves": 116,
     "favorites": 89,
     "views": 630,
-    "weight": 0.9653517832950096,
+    "weight": 0.9625722629495732,
     "username": "ManageLimit"
   },
   {
@@ -1231,7 +1231,7 @@
     "loves": 19,
     "favorites": 17,
     "views": 175,
-    "weight": 0.9599997434540497,
+    "weight": 0.9567449040055905,
     "username": "asdf1546"
   },
   {
@@ -1244,7 +1244,7 @@
     "loves": 27,
     "favorites": 18,
     "views": 165,
-    "weight": 0.9594082991601884,
+    "weight": 0.9565609831377325,
     "username": "littlebunny06"
   },
   {
@@ -1257,7 +1257,7 @@
     "loves": 63,
     "favorites": 61,
     "views": 1457,
-    "weight": 0.948925766254341,
+    "weight": 0.9452383614424665,
     "username": "IngsheKingKarl"
   },
   {
@@ -1270,7 +1270,7 @@
     "loves": 5244,
     "favorites": 4518,
     "views": 199918,
-    "weight": 0.945517397339627,
+    "weight": 0.943986055929124,
     "username": "ChessProking-tm"
   },
   {
@@ -1283,7 +1283,7 @@
     "loves": 11,
     "favorites": 11,
     "views": 57,
-    "weight": 0.9445127268427046,
+    "weight": 0.941996530970516,
     "username": "cz43"
   },
   {
@@ -1296,7 +1296,7 @@
     "loves": 19,
     "favorites": 13,
     "views": 127,
-    "weight": 0.9395677868633089,
+    "weight": 0.9368441003329465,
     "username": "littlebunny06"
   },
   {
@@ -1309,7 +1309,7 @@
     "loves": 63,
     "favorites": 61,
     "views": 605,
-    "weight": 0.9390741616893812,
+    "weight": 0.9360430488963948,
     "username": "pasuwado123"
   },
   {
@@ -1322,7 +1322,7 @@
     "loves": 50,
     "favorites": 35,
     "views": 419,
-    "weight": 0.9311692466397196,
+    "weight": 0.9283384542133638,
     "username": "littlebunny06"
   },
   {
@@ -1335,7 +1335,7 @@
     "loves": 11,
     "favorites": 12,
     "views": 120,
-    "weight": 0.9263401910722268,
+    "weight": 0.9233688437901745,
     "username": "SmallRations"
   },
   {
@@ -1348,7 +1348,7 @@
     "loves": 111,
     "favorites": 69,
     "views": 842,
-    "weight": 0.924015532058948,
+    "weight": 0.921344844491295,
     "username": "SkyCedar"
   },
   {
@@ -1361,7 +1361,7 @@
     "loves": 10,
     "favorites": 10,
     "views": 61,
-    "weight": 0.9154620238281718,
+    "weight": 0.9130652602399402,
     "username": "PW5Grant"
   },
   {
@@ -1374,7 +1374,7 @@
     "loves": 20,
     "favorites": 18,
     "views": 240,
-    "weight": 0.9122774151624926,
+    "weight": 0.9094111611811113,
     "username": "littlebunny06"
   },
   {
@@ -1387,7 +1387,7 @@
     "loves": 3,
     "favorites": 4,
     "views": 54,
-    "weight": 0.9002843642848769,
+    "weight": 0.8973561518335219,
     "username": "fungoogoo"
   },
   {
@@ -1400,7 +1400,7 @@
     "loves": 184,
     "favorites": 145,
     "views": 3222,
-    "weight": 0.8984411286419479,
+    "weight": 0.8972470176128841,
     "username": "--Loot--"
   },
   {
@@ -1413,7 +1413,7 @@
     "loves": 17,
     "favorites": 17,
     "views": 135,
-    "weight": 0.8919496512544287,
+    "weight": 0.8895697688696385,
     "username": "PixelNest"
   },
   {
@@ -1426,7 +1426,7 @@
     "loves": 21,
     "favorites": 13,
     "views": 81,
-    "weight": 0.8846075061036336,
+    "weight": 0.8828774377529857,
     "username": "Snoopywoodstock13"
   },
   {
@@ -1439,7 +1439,7 @@
     "loves": 6,
     "favorites": 5,
     "views": 74,
-    "weight": 0.883708727545582,
+    "weight": 0.8811458386801698,
     "username": "cc386283"
   },
   {
@@ -1452,7 +1452,7 @@
     "loves": 4,
     "favorites": 3,
     "views": 41,
-    "weight": 0.883381614692883,
+    "weight": 0.880923436832932,
     "username": "CactusFruit246"
   },
   {
@@ -1465,7 +1465,7 @@
     "loves": 394,
     "favorites": 351,
     "views": 2448,
-    "weight": 0.882017502765373,
+    "weight": 0.8799084588242271,
     "username": "MasterLocke86"
   },
   {
@@ -1478,21 +1478,8 @@
     "loves": 10,
     "favorites": 9,
     "views": 60,
-    "weight": 0.8818680098454172,
+    "weight": 0.8797869860055946,
     "username": "nembence"
-  },
-  {
-    "count": 1,
-    "id": 1273606995,
-    "title": "Journey",
-    "shared": "2026-02-01T03:49:04.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1273606995_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/56666954_32x32.png?v=",
-    "loves": 8,
-    "favorites": 6,
-    "views": 73,
-    "weight": 0.8781900967427184,
-    "username": "TR00M00"
   },
   {
     "count": 1,
@@ -1504,8 +1491,21 @@
     "loves": 10,
     "favorites": 6,
     "views": 67,
-    "weight": 0.8781681751411698,
+    "weight": 0.8760366685305515,
     "username": "AugustDaMope"
+  },
+  {
+    "count": 1,
+    "id": 1273606995,
+    "title": "Journey",
+    "shared": "2026-02-01T03:49:04.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1273606995_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/56666954_32x32.png?v=",
+    "loves": 8,
+    "favorites": 6,
+    "views": 73,
+    "weight": 0.8758526799092757,
+    "username": "TR00M00"
   },
   {
     "count": 1,
@@ -1517,7 +1517,7 @@
     "loves": 1021,
     "favorites": 738,
     "views": 7144,
-    "weight": 0.8744647116215685,
+    "weight": 0.8723349746544868,
     "username": "SkyCedar"
   },
   {
@@ -1530,7 +1530,7 @@
     "loves": 61,
     "favorites": 47,
     "views": 1138,
-    "weight": 0.8715234028706091,
+    "weight": 0.8689141532734839,
     "username": "-RipeMangoes-"
   },
   {
@@ -1543,7 +1543,7 @@
     "loves": 35,
     "favorites": 37,
     "views": 399,
-    "weight": 0.8665756607944255,
+    "weight": 0.8642285961049754,
     "username": "Iwokeuppls"
   },
   {
@@ -1556,7 +1556,7 @@
     "loves": 185,
     "favorites": 145,
     "views": 2759,
-    "weight": 0.859248342169004,
+    "weight": 0.8568541807411431,
     "username": "ChessProking-tm"
   },
   {
@@ -1569,7 +1569,7 @@
     "loves": 56,
     "favorites": 42,
     "views": 607,
-    "weight": 0.8584944100832639,
+    "weight": 0.8562508541648433,
     "username": "salziguy"
   },
   {
@@ -1582,7 +1582,7 @@
     "loves": 54,
     "favorites": 35,
     "views": 246,
-    "weight": 0.8477708557027964,
+    "weight": 0.8461560739435466,
     "username": "mik3ze"
   },
   {
@@ -1595,7 +1595,7 @@
     "loves": 23,
     "favorites": 15,
     "views": 357,
-    "weight": 0.8457333025390986,
+    "weight": 0.8434589815288452,
     "username": "Tate-1809"
   },
   {
@@ -1608,7 +1608,7 @@
     "loves": 1098,
     "favorites": 1017,
     "views": 5772,
-    "weight": 0.8448534298983895,
+    "weight": 0.8431569326934873,
     "username": "-Rocket-"
   },
   {
@@ -1621,7 +1621,7 @@
     "loves": 166,
     "favorites": 137,
     "views": 943,
-    "weight": 0.8421047036680036,
+    "weight": 0.8403757215697054,
     "username": "whitespace576"
   },
   {
@@ -1634,7 +1634,7 @@
     "loves": 3302,
     "favorites": 3090,
     "views": 33174,
-    "weight": 0.8392628208836371,
+    "weight": 0.8387240882460102,
     "username": "FunnyAnimatorJimTV"
   },
   {
@@ -1647,7 +1647,7 @@
     "loves": 107,
     "favorites": 93,
     "views": 379,
-    "weight": 0.838160215693515,
+    "weight": 0.8367917058667288,
     "username": "inkocat4717"
   },
   {
@@ -1660,7 +1660,7 @@
     "loves": 15,
     "favorites": 12,
     "views": 80,
-    "weight": 0.8345033093781383,
+    "weight": 0.8328696920836345,
     "username": "cz43"
   },
   {
@@ -1673,7 +1673,7 @@
     "loves": 219,
     "favorites": 174,
     "views": 2088,
-    "weight": 0.8310277659243229,
+    "weight": 0.8290918383937813,
     "username": "coder_d6"
   },
   {
@@ -1686,21 +1686,8 @@
     "loves": 1141,
     "favorites": 1016,
     "views": 6383,
-    "weight": 0.8305580643574855,
+    "weight": 0.8289212164940808,
     "username": "IncognitoOrange"
-  },
-  {
-    "count": 1,
-    "id": 1240409773,
-    "title": "Crouton Fishing || v1.2b || Mobile Friendly",
-    "shared": "2026-02-02T20:48:41.000Z",
-    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1240409773_480x360.png",
-    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/71734257_32x32.png?v=",
-    "loves": 7132,
-    "favorites": 6521,
-    "views": 179415,
-    "weight": 0.8290718570027048,
-    "username": "TheCloudEngineer"
   },
   {
     "count": 1,
@@ -1712,8 +1699,21 @@
     "loves": 900,
     "favorites": 788,
     "views": 4218,
-    "weight": 0.8289720765469709,
+    "weight": 0.8274607172071438,
     "username": "Mr-Mathmatical"
+  },
+  {
+    "count": 1,
+    "id": 1240409773,
+    "title": "Crouton Fishing || v1.2b || Mobile Friendly",
+    "shared": "2026-02-02T20:48:41.000Z",
+    "banner": "https://cdn2.scratch.mit.edu/get_image/project/1240409773_480x360.png",
+    "avatar": "https://cdn2.scratch.mit.edu/get_image/user/71734257_32x32.png?v=",
+    "loves": 7132,
+    "favorites": 6521,
+    "views": 179415,
+    "weight": 0.8268213200368661,
+    "username": "TheCloudEngineer"
   },
   {
     "count": 1,
@@ -1725,7 +1725,7 @@
     "loves": 41,
     "favorites": 31,
     "views": 884,
-    "weight": 0.8275291662603828,
+    "weight": 0.8253310413653472,
     "username": "ProbabIy_Not"
   },
   {
@@ -1738,7 +1738,7 @@
     "loves": 10,
     "favorites": 6,
     "views": 70,
-    "weight": 0.8249621919410028,
+    "weight": 0.8232332572843155,
     "username": "Echo-517"
   },
   {
@@ -1751,7 +1751,7 @@
     "loves": 32,
     "favorites": 14,
     "views": 191,
-    "weight": 0.823618829428953,
+    "weight": 0.821990824620699,
     "username": "ManageLimit"
   },
   {
@@ -1764,7 +1764,7 @@
     "loves": 203,
     "favorites": 173,
     "views": 5486,
-    "weight": 0.821789701938928,
+    "weight": 0.8195950190616947,
     "username": "cc386283"
   },
   {
@@ -1777,7 +1777,7 @@
     "loves": 4620,
     "favorites": 3849,
     "views": 191997,
-    "weight": 0.8192835824001947,
+    "weight": 0.8170398578856338,
     "username": "kittenlucy"
   },
   {
@@ -1790,7 +1790,7 @@
     "loves": 29,
     "favorites": 24,
     "views": 202,
-    "weight": 0.8169632564377393,
+    "weight": 0.815295733017349,
     "username": "dspace1015"
   },
   {
@@ -1803,7 +1803,7 @@
     "loves": 44,
     "favorites": 36,
     "views": 273,
-    "weight": 0.816576246142117,
+    "weight": 0.8149748728282727,
     "username": "Fire_Pot67"
   },
   {
@@ -1816,7 +1816,7 @@
     "loves": 10,
     "favorites": 7,
     "views": 84,
-    "weight": 0.8131116943396633,
+    "weight": 0.8113786604708166,
     "username": "Echo-517"
   },
   {
@@ -1829,7 +1829,7 @@
     "loves": 5375,
     "favorites": 4786,
     "views": 197702,
-    "weight": 0.8119523159290593,
+    "weight": 0.8097983576611176,
     "username": "louisrk"
   },
   {
@@ -1842,7 +1842,7 @@
     "loves": 44,
     "favorites": 37,
     "views": 436,
-    "weight": 0.8114033362860403,
+    "weight": 0.8096096207109224,
     "username": "man-o-valor"
   },
   {
@@ -1855,7 +1855,7 @@
     "loves": 13,
     "favorites": 7,
     "views": 95,
-    "weight": 0.8089666360378671,
+    "weight": 0.8073319067348605,
     "username": "aguirkinger"
   },
   {
@@ -1868,7 +1868,7 @@
     "loves": 8,
     "favorites": 7,
     "views": 80,
-    "weight": 0.8057624016739444,
+    "weight": 0.8040090516686204,
     "username": "cc386283"
   },
   {
@@ -1881,7 +1881,7 @@
     "loves": 153,
     "favorites": 125,
     "views": 1237,
-    "weight": 0.8050872473765454,
+    "weight": 0.8034318370858582,
     "username": "froggy1028"
   },
   {
@@ -1894,7 +1894,7 @@
     "loves": 87,
     "favorites": 67,
     "views": 582,
-    "weight": 0.8043653383382021,
+    "weight": 0.8028075506513052,
     "username": "Split_the_blob"
   },
   {
@@ -1907,7 +1907,7 @@
     "loves": 153,
     "favorites": 133,
     "views": 1844,
-    "weight": 0.8033530133727869,
+    "weight": 0.801547287780208,
     "username": "whileTrueMath"
   },
   {
@@ -1920,7 +1920,7 @@
     "loves": 217,
     "favorites": 184,
     "views": 1518,
-    "weight": 0.7984523578767804,
+    "weight": 0.7969125693412981,
     "username": "SmileHedgehog"
   },
   {
@@ -1933,7 +1933,7 @@
     "loves": 40,
     "favorites": 33,
     "views": 363,
-    "weight": 0.7916842245758614,
+    "weight": 0.7900757847649721,
     "username": "StudioKerga22"
   },
   {
@@ -1946,7 +1946,7 @@
     "loves": 152,
     "favorites": 142,
     "views": 1061,
-    "weight": 0.7875938894636425,
+    "weight": 0.7861276135134138,
     "username": "ChuckSploder"
   },
   {
@@ -1959,7 +1959,7 @@
     "loves": 140,
     "favorites": 108,
     "views": 789,
-    "weight": 0.787196011654969,
+    "weight": 0.7858364429622964,
     "username": "VysionValcon"
   },
   {
@@ -1972,7 +1972,7 @@
     "loves": 44,
     "favorites": 36,
     "views": 192,
-    "weight": 0.7857941988183123,
+    "weight": 0.7845795920346877,
     "username": "cz43"
   },
   {
@@ -1985,7 +1985,7 @@
     "loves": 182,
     "favorites": 152,
     "views": 3558,
-    "weight": 0.7834038679924628,
+    "weight": 0.7816216038953,
     "username": "ChessProking-tm"
   },
   {
@@ -1998,7 +1998,7 @@
     "loves": 101,
     "favorites": 99,
     "views": 1085,
-    "weight": 0.7800763280500516,
+    "weight": 0.7784883803016529,
     "username": "christopher333r"
   },
   {
@@ -2011,7 +2011,7 @@
     "loves": 34,
     "favorites": 23,
     "views": 233,
-    "weight": 0.7796963136982458,
+    "weight": 0.7782892551727238,
     "username": "finnagin5"
   },
   {
@@ -2024,7 +2024,7 @@
     "loves": 156,
     "favorites": 149,
     "views": 785,
-    "weight": 0.7785003956308566,
+    "weight": 0.7772493621344276,
     "username": "Atsptvy3"
   },
   {
@@ -2037,7 +2037,7 @@
     "loves": 2780,
     "favorites": 2386,
     "views": 67773,
-    "weight": 0.776031172739482,
+    "weight": 0.7742646289893087,
     "username": "Ksw_Studios"
   },
   {
@@ -2050,7 +2050,7 @@
     "loves": 15,
     "favorites": 12,
     "views": 90,
-    "weight": 0.773270356406868,
+    "weight": 0.7719633287408014,
     "username": "enterthefunny"
   },
   {
@@ -2063,7 +2063,7 @@
     "loves": 3407,
     "favorites": 3323,
     "views": 64442,
-    "weight": 0.7704479195203119,
+    "weight": 0.7697311086427836,
     "username": "prodforer"
   },
   {
@@ -2076,7 +2076,7 @@
     "loves": 11,
     "favorites": 8,
     "views": 95,
-    "weight": 0.7682320152303831,
+    "weight": 0.766803814082862,
     "username": "Echo-517"
   },
   {
@@ -2089,7 +2089,7 @@
     "loves": 152,
     "favorites": 107,
     "views": 605,
-    "weight": 0.767782877864563,
+    "weight": 0.7667094859305171,
     "username": "Kai_kat"
   },
   {
@@ -2102,7 +2102,7 @@
     "loves": 328,
     "favorites": 302,
     "views": 3026,
-    "weight": 0.7662929536233416,
+    "weight": 0.7648534982472284,
     "username": "ChessProking-tm"
   },
   {
@@ -2115,7 +2115,7 @@
     "loves": 10,
     "favorites": 6,
     "views": 86,
-    "weight": 0.7583820774091282,
+    "weight": 0.7570186519867564,
     "username": "--LittleMonster--"
   },
   {
@@ -2128,7 +2128,7 @@
     "loves": 303,
     "favorites": 294,
     "views": 2924,
-    "weight": 0.7513588700782402,
+    "weight": 0.7507679689500438,
     "username": "SomeoneUsingScratch3"
   },
   {
@@ -2141,7 +2141,7 @@
     "loves": 168,
     "favorites": 156,
     "views": 2945,
-    "weight": 0.748383611132165,
+    "weight": 0.7468906550212796,
     "username": "ChessProking-tm"
   },
   {
@@ -2154,7 +2154,7 @@
     "loves": 39,
     "favorites": 17,
     "views": 281,
-    "weight": 0.7458538604478598,
+    "weight": 0.744629932548445,
     "username": "ManageLimit"
   },
   {
@@ -2167,7 +2167,7 @@
     "loves": 397,
     "favorites": 342,
     "views": 4844,
-    "weight": 0.7458210157014575,
+    "weight": 0.7444303457343919,
     "username": "XaosKing"
   },
   {
@@ -2180,7 +2180,7 @@
     "loves": 232,
     "favorites": 186,
     "views": 1102,
-    "weight": 0.7419627397177387,
+    "weight": 0.7415041748423812,
     "username": "hiron0413"
   },
   {
@@ -2193,7 +2193,7 @@
     "loves": 4,
     "favorites": 3,
     "views": 31,
-    "weight": 0.7402530304898544,
+    "weight": 0.7390350714017759,
     "username": "buzter325"
   },
   {
@@ -2206,7 +2206,7 @@
     "loves": 65,
     "favorites": 57,
     "views": 468,
-    "weight": 0.7354412093963967,
+    "weight": 0.7342758805860625,
     "username": "Chase2006"
   },
   {
@@ -2219,7 +2219,7 @@
     "loves": 90,
     "favorites": 79,
     "views": 982,
-    "weight": 0.7300689071931601,
+    "weight": 0.7288070159127678,
     "username": "Hollow_Song"
   },
   {
@@ -2232,7 +2232,7 @@
     "loves": 11,
     "favorites": 12,
     "views": 99,
-    "weight": 0.7285788550580479,
+    "weight": 0.7273797945700545,
     "username": "procoder12781"
   },
   {
@@ -2245,7 +2245,7 @@
     "loves": 19,
     "favorites": 12,
     "views": 500,
-    "weight": 0.7269972093156765,
+    "weight": 0.7255860951653293,
     "username": "minishark421"
   },
   {
@@ -2258,7 +2258,7 @@
     "loves": 415,
     "favorites": 328,
     "views": 2393,
-    "weight": 0.7167197639781732,
+    "weight": 0.7157289310050047,
     "username": "TailsKirbyYoshi205"
   },
   {
@@ -2271,7 +2271,7 @@
     "loves": 12770,
     "favorites": 10083,
     "views": 370303,
-    "weight": 0.7090374199265895,
+    "weight": 0.7084710567408903,
     "username": "FUZZIE-WEASEL"
   },
   {
@@ -2284,7 +2284,7 @@
     "loves": 572,
     "favorites": 554,
     "views": 6121,
-    "weight": 0.7075112151333073,
+    "weight": 0.7063845930737855,
     "username": "bilman66"
   },
   {
@@ -2297,7 +2297,7 @@
     "loves": 22,
     "favorites": 16,
     "views": 123,
-    "weight": 0.7014621534008064,
+    "weight": 0.7005519970766194,
     "username": "ULtimat306"
   },
   {
@@ -2310,7 +2310,7 @@
     "loves": 15,
     "favorites": 10,
     "views": 310,
-    "weight": 0.699195078511315,
+    "weight": 0.6979948733267016,
     "username": "PlatformerClashVIl"
   },
   {
@@ -2323,7 +2323,7 @@
     "loves": 12,
     "favorites": 8,
     "views": 126,
-    "weight": 0.6983084652215149,
+    "weight": 0.6972361553964304,
     "username": "cc386283"
   },
   {
@@ -2336,7 +2336,7 @@
     "loves": 77,
     "favorites": 59,
     "views": 697,
-    "weight": 0.6979103728312224,
+    "weight": 0.6968758789021678,
     "username": "MonkeyBean2"
   },
   {
@@ -2349,7 +2349,7 @@
     "loves": 192,
     "favorites": 182,
     "views": 1182,
-    "weight": 0.6962316873860587,
+    "weight": 0.695313894290283,
     "username": "brooksd"
   },
   {
@@ -2362,7 +2362,7 @@
     "loves": 2221,
     "favorites": 1897,
     "views": 55683,
-    "weight": 0.695646894749866,
+    "weight": 0.6944436534027851,
     "username": "_aitchFactor"
   },
   {
@@ -2375,7 +2375,7 @@
     "loves": 10524,
     "favorites": 9871,
     "views": 314262,
-    "weight": 0.6944020234193704,
+    "weight": 0.6938723016482391,
     "username": "theChAOTiC"
   },
   {
@@ -2388,7 +2388,7 @@
     "loves": 83,
     "favorites": 72,
     "views": 2654,
-    "weight": 0.6911875185110185,
+    "weight": 0.6899863517930311,
     "username": "-KingMidas-"
   },
   {
@@ -2401,7 +2401,7 @@
     "loves": 60,
     "favorites": 53,
     "views": 591,
-    "weight": 0.6775905635705839,
+    "weight": 0.6766375090374722,
     "username": "52525rr"
   },
   {
@@ -2414,7 +2414,7 @@
     "loves": 949,
     "favorites": 844,
     "views": 19802,
-    "weight": 0.6708023279788424,
+    "weight": 0.6703445409194633,
     "username": "-KingMidas-"
   },
   {
@@ -2427,7 +2427,7 @@
     "loves": 940,
     "favorites": 892,
     "views": 8587,
-    "weight": 0.6689599014949682,
+    "weight": 0.6680636667691703,
     "username": "-KingMidas-"
   },
   {
@@ -2440,7 +2440,7 @@
     "loves": 120,
     "favorites": 94,
     "views": 735,
-    "weight": 0.6633190448387492,
+    "weight": 0.6625421990106984,
     "username": "_krokobil"
   },
   {
@@ -2453,7 +2453,7 @@
     "loves": 374,
     "favorites": 292,
     "views": 3302,
-    "weight": 0.6594641716161918,
+    "weight": 0.6586177519105754,
     "username": "fIufi-"
   },
   {
@@ -2466,7 +2466,7 @@
     "loves": 3849,
     "favorites": 3221,
     "views": 140210,
-    "weight": 0.655989557880643,
+    "weight": 0.654978822420134,
     "username": "seriouslyscratchy1"
   },
   {
@@ -2479,7 +2479,7 @@
     "loves": 7,
     "favorites": 7,
     "views": 99,
-    "weight": 0.6522609468424005,
+    "weight": 0.651364986766392,
     "username": "scratchprgtyu"
   },
   {
@@ -2492,7 +2492,7 @@
     "loves": 61,
     "favorites": 44,
     "views": 472,
-    "weight": 0.6520505409024618,
+    "weight": 0.6512635599936459,
     "username": "MonkeyBean2"
   },
   {
@@ -2505,7 +2505,7 @@
     "loves": 352,
     "favorites": 325,
     "views": 3931,
-    "weight": 0.6496453849704082,
+    "weight": 0.64879831601466,
     "username": "CodesNorth"
   },
   {
@@ -2518,7 +2518,7 @@
     "loves": 8,
     "favorites": 5,
     "views": 79,
-    "weight": 0.6493421313575609,
+    "weight": 0.6485179528203863,
     "username": "TR00M00"
   },
   {
@@ -2531,7 +2531,7 @@
     "loves": 226,
     "favorites": 210,
     "views": 1481,
-    "weight": 0.6383784987334616,
+    "weight": 0.6380646207542806,
     "username": "pianoman523"
   },
   {
@@ -2544,7 +2544,7 @@
     "loves": 166,
     "favorites": 154,
     "views": 1117,
-    "weight": 0.6348912548693784,
+    "weight": 0.6342009118661602,
     "username": "TheJamanater29"
   },
   {
@@ -2557,7 +2557,7 @@
     "loves": 11,
     "favorites": 8,
     "views": 127,
-    "weight": 0.6347432344820871,
+    "weight": 0.6339555278318284,
     "username": "man-o-flavor"
   },
   {
@@ -2570,7 +2570,7 @@
     "loves": 10305,
     "favorites": 8484,
     "views": 320495,
-    "weight": 0.6314140409019016,
+    "weight": 0.6305378398161853,
     "username": "ABERTOOO"
   },
   {
@@ -2583,7 +2583,7 @@
     "loves": 11315,
     "favorites": 10086,
     "views": 205441,
-    "weight": 0.6292311715564671,
+    "weight": 0.6284102476263466,
     "username": "griffpatch"
   },
   {
@@ -2596,7 +2596,7 @@
     "loves": 6291,
     "favorites": 5945,
     "views": 73712,
-    "weight": 0.628413645009171,
+    "weight": 0.6280722411583347,
     "username": "theChAOTiC"
   },
   {
@@ -2609,7 +2609,7 @@
     "loves": 19,
     "favorites": 27,
     "views": 50,
-    "weight": 0.6278927477903884,
+    "weight": 0.6274591118991711,
     "username": "Bloefish"
   },
   {
@@ -2622,7 +2622,7 @@
     "loves": 27,
     "favorites": 20,
     "views": 304,
-    "weight": 0.6263882821051733,
+    "weight": 0.625638956444605,
     "username": "origami_0919"
   },
   {
@@ -2635,7 +2635,7 @@
     "loves": 56,
     "favorites": 40,
     "views": 477,
-    "weight": 0.6258402716517856,
+    "weight": 0.6251380619276181,
     "username": "Coduck"
   },
   {
@@ -2648,7 +2648,7 @@
     "loves": 500,
     "favorites": 401,
     "views": 2856,
-    "weight": 0.6250545989152284,
+    "weight": 0.624433999149694,
     "username": "Alzter"
   },
   {
@@ -2661,7 +2661,7 @@
     "loves": 130,
     "favorites": 118,
     "views": 721,
-    "weight": 0.613055764056711,
+    "weight": 0.6124802609230298,
     "username": "froggy1028"
   },
   {
@@ -2674,7 +2674,7 @@
     "loves": 37,
     "favorites": 37,
     "views": 343,
-    "weight": 0.6122433424651521,
+    "weight": 0.6115779573742541,
     "username": "1A291109A6"
   },
   {
@@ -2687,7 +2687,7 @@
     "loves": 15827,
     "favorites": 15280,
     "views": 292637,
-    "weight": 0.600105368830878,
+    "weight": 0.5999591579584009,
     "username": "ggenije"
   },
   {
@@ -2700,7 +2700,7 @@
     "loves": 130,
     "favorites": 102,
     "views": 1314,
-    "weight": 0.598985675546837,
+    "weight": 0.5983556658871779,
     "username": "TheUndercoverGoose"
   },
   {
@@ -2713,7 +2713,7 @@
     "loves": 5016,
     "favorites": 4540,
     "views": 30459,
-    "weight": 0.5901269424281972,
+    "weight": 0.5898890104304063,
     "username": "Dhilly"
   },
   {
@@ -2726,7 +2726,7 @@
     "loves": 114,
     "favorites": 98,
     "views": 770,
-    "weight": 0.5896168583567679,
+    "weight": 0.5890777990876476,
     "username": "Phantom_Bowtie"
   },
   {
@@ -2739,7 +2739,7 @@
     "loves": 88,
     "favorites": 79,
     "views": 2756,
-    "weight": 0.5887850237993694,
+    "weight": 0.5880944691642571,
     "username": "PixeLime"
   },
   {
@@ -2752,7 +2752,7 @@
     "loves": 255,
     "favorites": 208,
     "views": 4253,
-    "weight": 0.588602719156229,
+    "weight": 0.5879556297479387,
     "username": "-KingMidas-"
   },
   {
@@ -2765,7 +2765,7 @@
     "loves": 423,
     "favorites": 361,
     "views": 7702,
-    "weight": 0.585884487517275,
+    "weight": 0.5852401806264271,
     "username": "Not_A_School_account"
   },
   {
@@ -2778,7 +2778,7 @@
     "loves": 1775,
     "favorites": 1478,
     "views": 20204,
-    "weight": 0.5856509218059962,
+    "weight": 0.5850527277821141,
     "username": "FUZZIE-WEASEL"
   },
   {
@@ -2791,7 +2791,7 @@
     "loves": 17,
     "favorites": 8,
     "views": 68,
-    "weight": 0.5842814688542067,
+    "weight": 0.5838521957169787,
     "username": "Tropicalated"
   },
   {
@@ -2804,7 +2804,7 @@
     "loves": 4027,
     "favorites": 3484,
     "views": 66863,
-    "weight": 0.5785663761071277,
+    "weight": 0.5782912299376629,
     "username": "WazzoTV"
   },
   {
@@ -2817,7 +2817,7 @@
     "loves": 459,
     "favorites": 378,
     "views": 5059,
-    "weight": 0.5765335196724838,
+    "weight": 0.5759695668113726,
     "username": "colinmacc"
   },
   {
@@ -2830,7 +2830,7 @@
     "loves": 228,
     "favorites": 198,
     "views": 853,
-    "weight": 0.5697108093767205,
+    "weight": 0.5693280574647792,
     "username": "wombatgamery"
   },
   {
@@ -2843,7 +2843,7 @@
     "loves": 392,
     "favorites": 354,
     "views": 5699,
-    "weight": 0.5661641234765353,
+    "weight": 0.5656074653995303,
     "username": "-KingMidas-"
   },
   {
@@ -2856,7 +2856,7 @@
     "loves": 62,
     "favorites": 53,
     "views": 537,
-    "weight": 0.5644337963541011,
+    "weight": 0.5639353696288798,
     "username": "costc075202"
   },
   {
@@ -2869,7 +2869,7 @@
     "loves": 43,
     "favorites": 39,
     "views": 397,
-    "weight": 0.5643408060259631,
+    "weight": 0.5638351179624822,
     "username": "RedOS10"
   },
   {
@@ -2882,7 +2882,7 @@
     "loves": 45,
     "favorites": 37,
     "views": 443,
-    "weight": 0.5589963927189459,
+    "weight": 0.558499484360795,
     "username": "080312_Kean"
   },
   {
@@ -2895,7 +2895,7 @@
     "loves": 257,
     "favorites": 232,
     "views": 1105,
-    "weight": 0.5560743820855766,
+    "weight": 0.5556977451044105,
     "username": "TheScratchDaftonix"
   },
   {
@@ -2908,7 +2908,7 @@
     "loves": 378,
     "favorites": 349,
     "views": 6038,
-    "weight": 0.5540499898008501,
+    "weight": 0.5535251551843204,
     "username": "Ksw_Studios"
   },
   {
@@ -2921,7 +2921,7 @@
     "loves": 177,
     "favorites": 121,
     "views": 1028,
-    "weight": 0.5529705106046089,
+    "weight": 0.5525555217592657,
     "username": "jocers"
   },
   {
@@ -2934,7 +2934,7 @@
     "loves": 67,
     "favorites": 66,
     "views": 820,
-    "weight": 0.5524268301551316,
+    "weight": 0.5519283788775823,
     "username": "Ranger_07"
   },
   {
@@ -2947,7 +2947,7 @@
     "loves": 153,
     "favorites": 126,
     "views": 3577,
-    "weight": 0.5488839164714168,
+    "weight": 0.5483522692332247,
     "username": "CJSkitss"
   },
   {
@@ -2960,7 +2960,7 @@
     "loves": 1390,
     "favorites": 1256,
     "views": 25851,
-    "weight": 0.5433603733602383,
+    "weight": 0.5428589360728276,
     "username": "FunnyAnimatorJimTV"
   },
   {
@@ -2973,7 +2973,7 @@
     "loves": 67,
     "favorites": 53,
     "views": 3562,
-    "weight": 0.5368082333766959,
+    "weight": 0.536287053860494,
     "username": "kevin_eleven_1234"
   },
   {
@@ -2986,7 +2986,7 @@
     "loves": 3894,
     "favorites": 3491,
     "views": 126652,
-    "weight": 0.5343197352867339,
+    "weight": 0.5340931101293019,
     "username": "nakakouTV"
   },
   {
@@ -2999,7 +2999,7 @@
     "loves": 842,
     "favorites": 798,
     "views": 14513,
-    "weight": 0.5325123392797894,
+    "weight": 0.5320479438931212,
     "username": "kingjaw2"
   },
   {
@@ -3012,7 +3012,7 @@
     "loves": 118,
     "favorites": 90,
     "views": 1174,
-    "weight": 0.5278667868501031,
+    "weight": 0.5274551341533011,
     "username": "-Adjust-"
   },
   {
@@ -3025,7 +3025,7 @@
     "loves": 239,
     "favorites": 218,
     "views": 5201,
-    "weight": 0.5270274949958116,
+    "weight": 0.5265666778100353,
     "username": "-kippie-"
   },
   {
@@ -3038,7 +3038,7 @@
     "loves": 74,
     "favorites": 62,
     "views": 861,
-    "weight": 0.5256131963932882,
+    "weight": 0.525194628440085,
     "username": "Chibi-maxim16"
   },
   {
@@ -3051,7 +3051,7 @@
     "loves": 99,
     "favorites": 77,
     "views": 559,
-    "weight": 0.5250698575845651,
+    "weight": 0.5247233036214394,
     "username": "pianoman523"
   },
   {
@@ -3064,7 +3064,7 @@
     "loves": 582,
     "favorites": 465,
     "views": 6350,
-    "weight": 0.5236003297961124,
+    "weight": 0.5231920331118383,
     "username": "alexandretherrien"
   },
   {
@@ -3077,7 +3077,7 @@
     "loves": 1072,
     "favorites": 912,
     "views": 18246,
-    "weight": 0.5233208738789629,
+    "weight": 0.5228833309289574,
     "username": "-KingMidas-"
   },
   {
@@ -3090,7 +3090,7 @@
     "loves": 84,
     "favorites": 60,
     "views": 394,
-    "weight": 0.5222197704316475,
+    "weight": 0.5219019827441849,
     "username": "pianoman523"
   },
   {
@@ -3103,7 +3103,7 @@
     "loves": 196,
     "favorites": 172,
     "views": 913,
-    "weight": 0.5194444545916518,
+    "weight": 0.519133020984577,
     "username": "wombatgamery"
   },
   {
@@ -3116,7 +3116,7 @@
     "loves": 3603,
     "favorites": 3248,
     "views": 44634,
-    "weight": 0.5170296703756189,
+    "weight": 0.5166288949397562,
     "username": "colinmacc"
   },
   {
@@ -3129,7 +3129,7 @@
     "loves": 256,
     "favorites": 225,
     "views": 8954,
-    "weight": 0.5149464994333728,
+    "weight": 0.5145029680486533,
     "username": "Bristlestar-of-CD"
   },
   {
@@ -3142,7 +3142,7 @@
     "loves": 1447,
     "favorites": 1315,
     "views": 28894,
-    "weight": 0.514873674418375,
+    "weight": 0.5144512180759714,
     "username": "awesome-llama"
   },
   {
@@ -3155,7 +3155,7 @@
     "loves": 3604,
     "favorites": 3371,
     "views": 54750,
-    "weight": 0.5118957511241699,
+    "weight": 0.5114953466733975,
     "username": "scratchfan321"
   },
   {
@@ -3168,7 +3168,7 @@
     "loves": 38,
     "favorites": 32,
     "views": 306,
-    "weight": 0.5115900845949254,
+    "weight": 0.5112366228442412,
     "username": "TIANIAVO12345"
   },
   {
@@ -3181,7 +3181,7 @@
     "loves": 6,
     "favorites": 3,
     "views": 35,
-    "weight": 0.5105969082798172,
+    "weight": 0.5102772140928635,
     "username": "bananavtwo"
   },
   {
@@ -3194,7 +3194,7 @@
     "loves": 1076,
     "favorites": 996,
     "views": 11040,
-    "weight": 0.5063637965104367,
+    "weight": 0.5061977237325035,
     "username": "MasterLocke86"
   },
   {
@@ -3207,7 +3207,7 @@
     "loves": 152,
     "favorites": 109,
     "views": 1086,
-    "weight": 0.5061079676636934,
+    "weight": 0.5057775116599925,
     "username": "Ricky-Jan"
   },
   {
@@ -3220,7 +3220,7 @@
     "loves": 8,
     "favorites": 2,
     "views": 72,
-    "weight": 0.5058501011755169,
+    "weight": 0.5055002743026077,
     "username": "CowLover---JA"
   },
   {
@@ -3233,7 +3233,7 @@
     "loves": 669,
     "favorites": 660,
     "views": 8107,
-    "weight": 0.5053623953580971,
+    "weight": 0.5049921627202173,
     "username": "stonewall123456"
   },
   {
@@ -3246,7 +3246,7 @@
     "loves": 15663,
     "favorites": 13120,
     "views": 347193,
-    "weight": 0.5050145177616159,
+    "weight": 0.504613887689192,
     "username": "FunnyAnimatorJimTV"
   },
   {
@@ -3259,7 +3259,7 @@
     "loves": 644,
     "favorites": 586,
     "views": 9142,
-    "weight": 0.5037863443102092,
+    "weight": 0.5036137641799056,
     "username": "littlebunny06"
   },
   {
@@ -3272,7 +3272,7 @@
     "loves": 727,
     "favorites": 620,
     "views": 8256,
-    "weight": 0.5031815820565485,
+    "weight": 0.5028208593608104,
     "username": "kriblo"
   },
   {
@@ -3285,7 +3285,7 @@
     "loves": 2304,
     "favorites": 2052,
     "views": 39371,
-    "weight": 0.49888387377914806,
+    "weight": 0.49851028633079,
     "username": "-KingMidas-"
   },
   {
@@ -3298,7 +3298,7 @@
     "loves": 132,
     "favorites": 81,
     "views": 2231,
-    "weight": 0.49881472344419314,
+    "weight": 0.4984418309315487,
     "username": "BrandBattle7"
   },
   {
@@ -3311,7 +3311,7 @@
     "loves": 43,
     "favorites": 33,
     "views": 359,
-    "weight": 0.49803463732951503,
+    "weight": 0.4977081242314199,
     "username": "Arzenist"
   },
   {
@@ -3324,7 +3324,7 @@
     "loves": 10,
     "favorites": 10,
     "views": 118,
-    "weight": 0.49716444805772747,
+    "weight": 0.4968153077892516,
     "username": "pianoman523"
   },
   {
@@ -3337,7 +3337,7 @@
     "loves": 590,
     "favorites": 472,
     "views": 7788,
-    "weight": 0.49642177521679354,
+    "weight": 0.4960676514303043,
     "username": "alexandretherrien"
   },
   {
@@ -3350,7 +3350,7 @@
     "loves": 833,
     "favorites": 703,
     "views": 12694,
-    "weight": 0.4961201637117226,
+    "weight": 0.4957589721129533,
     "username": "Youtube-king"
   },
   {
@@ -3363,7 +3363,7 @@
     "loves": 75,
     "favorites": 59,
     "views": 511,
-    "weight": 0.4960136678947277,
+    "weight": 0.4957084995106094,
     "username": "Boxset"
   },
   {
@@ -3376,7 +3376,7 @@
     "loves": 765,
     "favorites": 672,
     "views": 6341,
-    "weight": 0.4960054397538709,
+    "weight": 0.495683841574788,
     "username": "TeoKK123"
   },
   {
@@ -3389,7 +3389,7 @@
     "loves": 82,
     "favorites": 65,
     "views": 482,
-    "weight": 0.49412769673688184,
+    "weight": 0.493839785427488,
     "username": "--RedFox--"
   },
   {
@@ -3402,7 +3402,7 @@
     "loves": 12448,
     "favorites": 11769,
     "views": 320187,
-    "weight": 0.4912838118647484,
+    "weight": 0.4909130642456521,
     "username": "theChAOTiC"
   },
   {
@@ -3415,7 +3415,7 @@
     "loves": 2490,
     "favorites": 1916,
     "views": 42093,
-    "weight": 0.4898680865994033,
+    "weight": 0.48951681413276527,
     "username": "Pyrosmosis"
   },
   {
@@ -3428,7 +3428,7 @@
     "loves": 660,
     "favorites": 570,
     "views": 6569,
-    "weight": 0.4892164393119359,
+    "weight": 0.4888960546430222,
     "username": "alexandretherrien"
   },
   {
@@ -3441,7 +3441,7 @@
     "loves": 24,
     "favorites": 20,
     "views": 334,
-    "weight": 0.4889203289301165,
+    "weight": 0.48858071252464064,
     "username": "Luuksnuf"
   },
   {
@@ -3454,7 +3454,7 @@
     "loves": 2097,
     "favorites": 2044,
     "views": 46100,
-    "weight": 0.48759351807869267,
+    "weight": 0.48723715081826807,
     "username": "ScratchRunning"
   },
   {
@@ -3467,7 +3467,7 @@
     "loves": 148,
     "favorites": 128,
     "views": 1257,
-    "weight": 0.48753855990005524,
+    "weight": 0.48723281702171595,
     "username": "-MidasKing-"
   },
   {
@@ -3480,7 +3480,7 @@
     "loves": 176,
     "favorites": 152,
     "views": 1378,
-    "weight": 0.4861464205942158,
+    "weight": 0.48584959170166775,
     "username": "-stork"
   },
   {
@@ -3493,7 +3493,7 @@
     "loves": 6,
     "favorites": 6,
     "views": 55,
-    "weight": 0.4859406109580616,
+    "weight": 0.485632737758195,
     "username": "theshipguy4211"
   },
   {
@@ -3506,7 +3506,7 @@
     "loves": 1961,
     "favorites": 1736,
     "views": 46333,
-    "weight": 0.4851949568091214,
+    "weight": 0.4850327075467369,
     "username": "52525rr"
   },
   {
@@ -3519,7 +3519,7 @@
     "loves": 3126,
     "favorites": 2785,
     "views": 34658,
-    "weight": 0.4851868688964142,
+    "weight": 0.4848683161223797,
     "username": "Robik2019"
   },
   {
@@ -3532,7 +3532,7 @@
     "loves": 10463,
     "favorites": 9371,
     "views": 748471,
-    "weight": 0.48254235037956034,
+    "weight": 0.48217283318496995,
     "username": "-Katana_Gaming-"
   },
   {
@@ -3545,7 +3545,7 @@
     "loves": 146,
     "favorites": 99,
     "views": 4888,
-    "weight": 0.48142444423139286,
+    "weight": 0.4810706636525388,
     "username": "BrandBattle7"
   },
   {
@@ -3558,7 +3558,7 @@
     "loves": 891,
     "favorites": 832,
     "views": 13201,
-    "weight": 0.47918119259671443,
+    "weight": 0.47886035533734117,
     "username": "Pentahedron"
   },
   {
@@ -3571,7 +3571,7 @@
     "loves": 223,
     "favorites": 177,
     "views": 4013,
-    "weight": 0.4787785135362751,
+    "weight": 0.4786272631327558,
     "username": "26243AJ"
   },
   {
@@ -3584,7 +3584,7 @@
     "loves": 2063,
     "favorites": 1847,
     "views": 59437,
-    "weight": 0.4779727508893537,
+    "weight": 0.47763098085771505,
     "username": "GL00B"
   },
   {
@@ -3597,7 +3597,7 @@
     "loves": 2338,
     "favorites": 2081,
     "views": 45606,
-    "weight": 0.47695829524048616,
+    "weight": 0.4766310427857547,
     "username": "scratchfan321"
   },
   {
@@ -3610,7 +3610,7 @@
     "loves": 93,
     "favorites": 90,
     "views": 1616,
-    "weight": 0.4767639325809765,
+    "weight": 0.4764415525193931,
     "username": "Kingman_III"
   },
   {
@@ -3623,7 +3623,7 @@
     "loves": 2345,
     "favorites": 2024,
     "views": 77096,
-    "weight": 0.4759907470928581,
+    "weight": 0.47565038905989343,
     "username": "GL00B"
   },
   {
@@ -3636,7 +3636,7 @@
     "loves": 1456,
     "favorites": 1354,
     "views": 32691,
-    "weight": 0.469314175299304,
+    "weight": 0.46899926516611795,
     "username": "GL00B"
   },
   {
@@ -3649,7 +3649,7 @@
     "loves": 311,
     "favorites": 277,
     "views": 2924,
-    "weight": 0.46710688576455206,
+    "weight": 0.46683484330975017,
     "username": "squidchip"
   },
   {
@@ -3662,7 +3662,7 @@
     "loves": 623,
     "favorites": 577,
     "views": 7998,
-    "weight": 0.4663871983632327,
+    "weight": 0.46610002702849,
     "username": "GL00B"
   },
   {
@@ -3675,7 +3675,7 @@
     "loves": 1461,
     "favorites": 1314,
     "views": 28745,
-    "weight": 0.46169733566621135,
+    "weight": 0.4614029631566949,
     "username": "-KingMidas-"
   },
   {
@@ -3688,7 +3688,7 @@
     "loves": 3950,
     "favorites": 3669,
     "views": 46728,
-    "weight": 0.4609797874103839,
+    "weight": 0.46070719059192383,
     "username": "FunnyAnimatorJimTV"
   },
   {
@@ -3701,7 +3701,7 @@
     "loves": 580,
     "favorites": 544,
     "views": 4344,
-    "weight": 0.4607293577986298,
+    "weight": 0.4604831026122568,
     "username": "finnagin5"
   },
   {
@@ -3714,7 +3714,7 @@
     "loves": 270,
     "favorites": 251,
     "views": 3774,
-    "weight": 0.45888983992307525,
+    "weight": 0.4586138175952777,
     "username": "bour0152"
   },
   {
@@ -3727,7 +3727,7 @@
     "loves": 98,
     "favorites": 104,
     "views": 1035,
-    "weight": 0.4587099074371956,
+    "weight": 0.4584472733843234,
     "username": "balousincomless"
   },
   {
@@ -3740,7 +3740,7 @@
     "loves": 172,
     "favorites": 153,
     "views": 1880,
-    "weight": 0.45729117653457374,
+    "weight": 0.4570294563767316,
     "username": "SSSouple"
   },
   {
@@ -3753,7 +3753,7 @@
     "loves": 122,
     "favorites": 92,
     "views": 1252,
-    "weight": 0.4571337140772824,
+    "weight": 0.4568754854869219,
     "username": "derekqq"
   },
   {
@@ -3766,7 +3766,7 @@
     "loves": 26,
     "favorites": 18,
     "views": 310,
-    "weight": 0.4567570724631114,
+    "weight": 0.4564921813275751,
     "username": "TheMasterAtNothing"
   },
   {
@@ -3779,7 +3779,7 @@
     "loves": 31,
     "favorites": 23,
     "views": 196,
-    "weight": 0.4564748692393822,
+    "weight": 0.45624720484479775,
     "username": "dspace1015"
   },
   {
@@ -3792,7 +3792,7 @@
     "loves": 2897,
     "favorites": 2331,
     "views": 23065,
-    "weight": 0.45475845449037827,
+    "weight": 0.4546467901961873,
     "username": "Will_Wam"
   },
   {
@@ -3805,7 +3805,7 @@
     "loves": 448,
     "favorites": 407,
     "views": 7324,
-    "weight": 0.4486191796378653,
+    "weight": 0.44835712131535393,
     "username": "-KingMidas-"
   },
   {
@@ -3818,7 +3818,7 @@
     "loves": 250,
     "favorites": 254,
     "views": 5664,
-    "weight": 0.4450757938564398,
+    "weight": 0.4448109037661025,
     "username": "The_Fish909"
   },
   {
@@ -3831,7 +3831,7 @@
     "loves": 5554,
     "favorites": 5206,
     "views": 89582,
-    "weight": 0.43949514033889997,
+    "weight": 0.439250505835371,
     "username": "kingjaw2"
   },
   {
@@ -3844,7 +3844,7 @@
     "loves": 231,
     "favorites": 190,
     "views": 3287,
-    "weight": 0.43904049539317586,
+    "weight": 0.43880092112327634,
     "username": "zapcircuit01"
   },
   {
@@ -3857,7 +3857,7 @@
     "loves": 1379,
     "favorites": 1196,
     "views": 49502,
-    "weight": 0.43751825851862614,
+    "weight": 0.43725869074641366,
     "username": "b9e"
   },
   {
@@ -3870,7 +3870,7 @@
     "loves": 3,
     "favorites": 3,
     "views": 23,
-    "weight": 0.437426103444562,
+    "weight": 0.4372167486744605,
     "username": "Scatterd"
   },
   {
@@ -3883,7 +3883,7 @@
     "loves": 870,
     "favorites": 795,
     "views": 7643,
-    "weight": 0.43435990275324915,
+    "weight": 0.43414837094668435,
     "username": "VinCrafts"
   },
   {
@@ -3896,7 +3896,7 @@
     "loves": 1283,
     "favorites": 1138,
     "views": 81610,
-    "weight": 0.43370866045015605,
+    "weight": 0.4334495176168986,
     "username": "Brad-Games"
   },
   {
@@ -3909,7 +3909,7 @@
     "loves": 27,
     "favorites": 19,
     "views": 249,
-    "weight": 0.43092984869704404,
+    "weight": 0.4307214251248545,
     "username": "littlebunny06"
   },
   {
@@ -3922,7 +3922,7 @@
     "loves": 1455,
     "favorites": 1306,
     "views": 57141,
-    "weight": 0.42879384884003346,
+    "weight": 0.42854951621288573,
     "username": "GL00B"
   },
   {
@@ -3935,7 +3935,7 @@
     "loves": 541,
     "favorites": 436,
     "views": 7759,
-    "weight": 0.4274873865624356,
+    "weight": 0.42726745648005937,
     "username": "BamBozzle"
   },
   {
@@ -3948,7 +3948,7 @@
     "loves": 42,
     "favorites": 34,
     "views": 659,
-    "weight": 0.42637512053474286,
+    "weight": 0.4261542720368961,
     "username": "FruitFull_Gaming"
   },
   {
@@ -3961,7 +3961,7 @@
     "loves": 147,
     "favorites": 119,
     "views": 1005,
-    "weight": 0.4246619794988276,
+    "weight": 0.4244775486912396,
     "username": "ccallahantow"
   },
   {
@@ -3974,7 +3974,7 @@
     "loves": 148,
     "favorites": 129,
     "views": 8536,
-    "weight": 0.42360551600439184,
+    "weight": 0.42336643183749517,
     "username": "-RipeMangoes-"
   },
   {
@@ -3987,7 +3987,7 @@
     "loves": 3740,
     "favorites": 3605,
     "views": 57498,
-    "weight": 0.42282225726802386,
+    "weight": 0.42272229755143836,
     "username": "BamBozzle"
   },
   {
@@ -4000,7 +4000,7 @@
     "loves": 9520,
     "favorites": 8251,
     "views": 74370,
-    "weight": 0.4221991402046676,
+    "weight": 0.42201156178764077,
     "username": "FunnyAnimatorJimTV"
   },
   {
@@ -4013,7 +4013,7 @@
     "loves": 516,
     "favorites": 452,
     "views": 30264,
-    "weight": 0.42114193206619566,
+    "weight": 0.4209072008384015,
     "username": "Holmesanator"
   },
   {
@@ -4026,7 +4026,7 @@
     "loves": 1438,
     "favorites": 1304,
     "views": 38159,
-    "weight": 0.4205406381915715,
+    "weight": 0.4203173461582525,
     "username": "colinmacc"
   },
   {
@@ -4039,7 +4039,7 @@
     "loves": 942,
     "favorites": 916,
     "views": 13450,
-    "weight": 0.418251603608916,
+    "weight": 0.41804685334395975,
     "username": "scratchfan321"
   },
   {
@@ -4052,7 +4052,7 @@
     "loves": 1806,
     "favorites": 1559,
     "views": 71402,
-    "weight": 0.41508918780564846,
+    "weight": 0.41486930751442586,
     "username": "daityouhenn"
   },
   {
@@ -4065,7 +4065,7 @@
     "loves": 4586,
     "favorites": 3429,
     "views": 81467,
-    "weight": 0.41169841254506057,
+    "weight": 0.41160487794097883,
     "username": "papipupepappa"
   },
   {
@@ -4078,7 +4078,7 @@
     "loves": 740,
     "favorites": 596,
     "views": 66304,
-    "weight": 0.4115351604589547,
+    "weight": 0.41131455660202676,
     "username": "colinmacc_test"
   },
   {
@@ -4091,7 +4091,7 @@
     "loves": 5269,
     "favorites": 4528,
     "views": 74485,
-    "weight": 0.4111116120897708,
+    "weight": 0.41091825976629354,
     "username": "CrystalKeeper7"
   },
   {
@@ -4104,7 +4104,7 @@
     "loves": 372,
     "favorites": 330,
     "views": 3419,
-    "weight": 0.41106983355571125,
+    "weight": 0.41089102724123505,
     "username": "CrackedGalaxy"
   },
   {
@@ -4117,7 +4117,7 @@
     "loves": 109,
     "favorites": 85,
     "views": 1009,
-    "weight": 0.41019146230081444,
+    "weight": 0.41001360893477123,
     "username": "SylviTeam"
   },
   {
@@ -4130,7 +4130,7 @@
     "loves": 263,
     "favorites": 241,
     "views": 3241,
-    "weight": 0.4094254657523173,
+    "weight": 0.4092387364196583,
     "username": "urlocalcreator"
   },
   {
@@ -4143,7 +4143,7 @@
     "loves": 293,
     "favorites": 287,
     "views": 5123,
-    "weight": 0.4041457015809589,
+    "weight": 0.40395745884691386,
     "username": "scratchfan321"
   },
   {
@@ -4156,7 +4156,7 @@
     "loves": 38,
     "favorites": 29,
     "views": 428,
-    "weight": 0.40007556267420924,
+    "weight": 0.39990494719311,
     "username": "dspace1015"
   },
   {
@@ -4169,7 +4169,7 @@
     "loves": 538,
     "favorites": 498,
     "views": 9731,
-    "weight": 0.3988699967467718,
+    "weight": 0.39868885603286774,
     "username": "asdf1546"
   },
   {
@@ -4182,7 +4182,7 @@
     "loves": 2042,
     "favorites": 1824,
     "views": 47613,
-    "weight": 0.39544891900372786,
+    "weight": 0.395364248442559,
     "username": "colinmacc"
   },
   {
@@ -4195,7 +4195,7 @@
     "loves": 727,
     "favorites": 555,
     "views": 6805,
-    "weight": 0.39490918931235985,
+    "weight": 0.39475142927087015,
     "username": "FUZZIE-WEASEL"
   },
   {
@@ -4208,7 +4208,7 @@
     "loves": 15,
     "favorites": 10,
     "views": 312,
-    "weight": 0.3894279743949605,
+    "weight": 0.3892577346428725,
     "username": "Phantom_Bowtie"
   },
   {
@@ -4221,7 +4221,7 @@
     "loves": 5139,
     "favorites": 4678,
     "views": 234551,
-    "weight": 0.3885727284424559,
+    "weight": 0.38839389554162507,
     "username": "alexandretherrien"
   },
   {
@@ -4234,7 +4234,7 @@
     "loves": 7414,
     "favorites": 7110,
     "views": 120960,
-    "weight": 0.3877328552906006,
+    "weight": 0.3875696077111886,
     "username": "FunnyAnimatorJimTV"
   },
   {
@@ -4247,7 +4247,7 @@
     "loves": 6633,
     "favorites": 5884,
     "views": 232431,
-    "weight": 0.38701117408096436,
+    "weight": 0.3868371852786394,
     "username": "theChAOTiC"
   },
   {
@@ -4260,7 +4260,7 @@
     "loves": 3241,
     "favorites": 2600,
     "views": 75937,
-    "weight": 0.386139986852025,
+    "weight": 0.3859724263633503,
     "username": "kingjaw2"
   },
   {
@@ -4273,7 +4273,7 @@
     "loves": 34,
     "favorites": 32,
     "views": 674,
-    "weight": 0.38415203584226104,
+    "weight": 0.38398993793707814,
     "username": "urlocalcreator"
   },
   {
@@ -4286,7 +4286,7 @@
     "loves": 5729,
     "favorites": 5310,
     "views": 89324,
-    "weight": 0.3748926887217566,
+    "weight": 0.37474707198744145,
     "username": "FunnyAnimatorJimTV"
   },
   {
@@ -4299,7 +4299,7 @@
     "loves": 177,
     "favorites": 158,
     "views": 2199,
-    "weight": 0.37370071668936045,
+    "weight": 0.37356135684265146,
     "username": "BambozzIe"
   },
   {
@@ -4312,7 +4312,7 @@
     "loves": 3094,
     "favorites": 2554,
     "views": 40301,
-    "weight": 0.373603522239631,
+    "weight": 0.3734632146806134,
     "username": "WazzoTV"
   },
   {
@@ -4325,7 +4325,7 @@
     "loves": 6841,
     "favorites": 6475,
     "views": 121325,
-    "weight": 0.36670565724995263,
+    "weight": 0.36656780585542353,
     "username": "-RipeMangoes-"
   },
   {
@@ -4338,7 +4338,7 @@
     "loves": 4578,
     "favorites": 4644,
     "views": 188664,
-    "weight": 0.364547729205207,
+    "weight": 0.36440289335809456,
     "username": "alps88"
   },
   {
@@ -4351,7 +4351,7 @@
     "loves": 1022,
     "favorites": 963,
     "views": 41316,
-    "weight": 0.3642032834651824,
+    "weight": 0.36405903381739296,
     "username": "notchisboss1000"
   },
   {
@@ -4364,7 +4364,7 @@
     "loves": 38,
     "favorites": 40,
     "views": 401,
-    "weight": 0.36259806421957724,
+    "weight": 0.36247513991283287,
     "username": "christopher333r"
   },
   {
@@ -4377,7 +4377,7 @@
     "loves": 367,
     "favorites": 316,
     "views": 5721,
-    "weight": 0.36008892556120586,
+    "weight": 0.35996096254165444,
     "username": "Chrome_Cat"
   },
   {
@@ -4390,7 +4390,7 @@
     "loves": 4,
     "favorites": 3,
     "views": 42,
-    "weight": 0.3588930250433421,
+    "weight": 0.35877418360589036,
     "username": "SUPER_scratcher188"
   },
   {
@@ -4403,7 +4403,7 @@
     "loves": 11,
     "favorites": 9,
     "views": 180,
-    "weight": 0.35683609616146195,
+    "weight": 0.35671101244217257,
     "username": "Finfunley"
   },
   {
@@ -4416,7 +4416,7 @@
     "loves": 3072,
     "favorites": 2619,
     "views": 41033,
-    "weight": 0.3556349136580014,
+    "weight": 0.35557805709675155,
     "username": "skyset"
   },
   {
@@ -4429,7 +4429,7 @@
     "loves": 36,
     "favorites": 23,
     "views": 259,
-    "weight": 0.35547941159521845,
+    "weight": 0.3553736124778293,
     "username": "st27028"
   },
   {
@@ -4442,7 +4442,7 @@
     "loves": 189,
     "favorites": 169,
     "views": 1129,
-    "weight": 0.3523114683370461,
+    "weight": 0.35221401700002986,
     "username": "cz43"
   },
   {
@@ -4455,7 +4455,7 @@
     "loves": 10198,
     "favorites": 8894,
     "views": 399922,
-    "weight": 0.35229827350229936,
+    "weight": 0.35216883752426714,
     "username": "alexandretherrien"
   },
   {
@@ -4468,7 +4468,7 @@
     "loves": 9,
     "favorites": 6,
     "views": 35,
-    "weight": 0.35167417301910436,
+    "weight": 0.3515916592044972,
     "username": "Pete_Da_Beat"
   },
   {
@@ -4481,7 +4481,7 @@
     "loves": 15308,
     "favorites": 13530,
     "views": 349170,
-    "weight": 0.345208162083042,
+    "weight": 0.3451530269285436,
     "username": "-PinPoint-"
   },
   {
@@ -4494,7 +4494,7 @@
     "loves": 64,
     "favorites": 59,
     "views": 1277,
-    "weight": 0.3450390287568611,
+    "weight": 0.3449240949185935,
     "username": "Tiner-X"
   },
   {
@@ -4507,7 +4507,7 @@
     "loves": 53,
     "favorites": 39,
     "views": 339,
-    "weight": 0.34254750082805463,
+    "weight": 0.34245650310367315,
     "username": "squirrelsRcool"
   },
   {
@@ -4520,7 +4520,7 @@
     "loves": 6613,
     "favorites": 5735,
     "views": 96796,
-    "weight": 0.3404260727593164,
+    "weight": 0.3403200430590047,
     "username": "CrystalKeeper7"
   },
   {
@@ -4533,7 +4533,7 @@
     "loves": 257,
     "favorites": 211,
     "views": 1971,
-    "weight": 0.34041003105974443,
+    "weight": 0.3403163098102755,
     "username": "uiopscratch327"
   },
   {
@@ -4546,7 +4546,7 @@
     "loves": 729,
     "favorites": 671,
     "views": 9222,
-    "weight": 0.3399533275487488,
+    "weight": 0.33990435851275597,
     "username": "uiopscratch327"
   },
   {
@@ -4559,7 +4559,7 @@
     "loves": 129,
     "favorites": 110,
     "views": 683,
-    "weight": 0.33974768269624744,
+    "weight": 0.33966420056280944,
     "username": "CoderAplus"
   },
   {
@@ -4572,7 +4572,7 @@
     "loves": 20224,
     "favorites": 17907,
     "views": 1660863,
-    "weight": 0.3388513966347564,
+    "weight": 0.3387337883535188,
     "username": "DevIog"
   },
   {
@@ -4585,7 +4585,7 @@
     "loves": 580,
     "favorites": 527,
     "views": 7420,
-    "weight": 0.33816093976726824,
+    "weight": 0.33805920393989963,
     "username": "DataFile-X"
   },
   {
@@ -4598,7 +4598,7 @@
     "loves": 50099,
     "favorites": 46068,
     "views": 982524,
-    "weight": 0.33685415332978297,
+    "weight": 0.3368038246100746,
     "username": "ggenije"
   },
   {
@@ -4611,7 +4611,7 @@
     "loves": 32989,
     "favorites": 29622,
     "views": 1057702,
-    "weight": 0.3324617951049636,
+    "weight": 0.33235555785333043,
     "username": "griffpatch"
   },
   {
@@ -4624,7 +4624,7 @@
     "loves": 329,
     "favorites": 311,
     "views": 14798,
-    "weight": 0.3320082766638311,
+    "weight": 0.33190045916828587,
     "username": "codingmadness98"
   },
   {
@@ -4637,7 +4637,7 @@
     "loves": 100,
     "favorites": 92,
     "views": 1070,
-    "weight": 0.33189299346082485,
+    "weight": 0.33180003590879875,
     "username": "rat-violi"
   },
   {
@@ -4650,7 +4650,7 @@
     "loves": 10,
     "favorites": 10,
     "views": 176,
-    "weight": 0.3311342971175249,
+    "weight": 0.33103489152334087,
     "username": "jlk_coder"
   },
   {
@@ -4663,7 +4663,7 @@
     "loves": 5760,
     "favorites": 5247,
     "views": 390395,
-    "weight": 0.3309286055047909,
+    "weight": 0.33082017133111413,
     "username": "yoshihome"
   },
   {
@@ -4676,7 +4676,7 @@
     "loves": 543,
     "favorites": 481,
     "views": 11261,
-    "weight": 0.3308253740797085,
+    "weight": 0.3307244782477977,
     "username": "--Loot--"
   },
   {
@@ -4689,7 +4689,7 @@
     "loves": 1284,
     "favorites": 1094,
     "views": 10142,
-    "weight": 0.33012538186657236,
+    "weight": 0.3300397377479547,
     "username": "FireMayro"
   },
   {
@@ -4702,7 +4702,7 @@
     "loves": 558,
     "favorites": 468,
     "views": 3852,
-    "weight": 0.32939786340775773,
+    "weight": 0.3293157259312647,
     "username": "opticist"
   },
   {
@@ -4715,7 +4715,7 @@
     "loves": 1391,
     "favorites": 1190,
     "views": 13315,
-    "weight": 0.32916150546034006,
+    "weight": 0.3290729090353157,
     "username": "Dinosu"
   },
   {
@@ -4728,7 +4728,7 @@
     "loves": 335,
     "favorites": 287,
     "views": 10967,
-    "weight": 0.3283857776751853,
+    "weight": 0.32828350109010146,
     "username": "colinmacc"
   },
   {
@@ -4741,7 +4741,7 @@
     "loves": 8145,
     "favorites": 7454,
     "views": 209578,
-    "weight": 0.3268185792148426,
+    "weight": 0.32677164699955386,
     "username": "theChAOTiC"
   },
   {
@@ -4754,7 +4754,7 @@
     "loves": 10471,
     "favorites": 9770,
     "views": 291801,
-    "weight": 0.3264345296633846,
+    "weight": 0.3263353038268728,
     "username": "FunnyAnimatorJimTV"
   },
   {
@@ -4767,7 +4767,7 @@
     "loves": 33,
     "favorites": 18,
     "views": 292,
-    "weight": 0.3263924071042212,
+    "weight": 0.32630758609520666,
     "username": "st27028"
   },
   {
@@ -4780,7 +4780,7 @@
     "loves": 5411,
     "favorites": 5188,
     "views": 46177,
-    "weight": 0.3246656420153855,
+    "weight": 0.3245829089197525,
     "username": "awesome-llama"
   },
   {
@@ -4793,7 +4793,7 @@
     "loves": 4036,
     "favorites": 3786,
     "views": 91145,
-    "weight": 0.32358772727995233,
+    "weight": 0.32349291747108516,
     "username": "scratchfan321"
   },
   {
@@ -4806,7 +4806,7 @@
     "loves": 5362,
     "favorites": 4819,
     "views": 37600,
-    "weight": 0.3227275470099653,
+    "weight": 0.3226502306543168,
     "username": "JloAu"
   },
   {
@@ -4819,7 +4819,7 @@
     "loves": 295,
     "favorites": 251,
     "views": 3851,
-    "weight": 0.31995550372469517,
+    "weight": 0.3198699103112037,
     "username": "TheGoodGuy8000"
   },
   {
@@ -4832,7 +4832,7 @@
     "loves": 262,
     "favorites": 214,
     "views": 3439,
-    "weight": 0.3195562751911875,
+    "weight": 0.31947095039615037,
     "username": "I2C"
   },
   {
@@ -4845,7 +4845,7 @@
     "loves": 717,
     "favorites": 660,
     "views": 12435,
-    "weight": 0.318888204133601,
+    "weight": 0.3188001797107394,
     "username": "DogCatPuppyLover"
   },
   {
@@ -4858,7 +4858,7 @@
     "loves": 292,
     "favorites": 266,
     "views": 3903,
-    "weight": 0.31841815014647995,
+    "weight": 0.31833355082472736,
     "username": "OriginalProjects"
   },
   {
@@ -4871,7 +4871,7 @@
     "loves": 5828,
     "favorites": 5391,
     "views": 270087,
-    "weight": 0.318166238134958,
+    "weight": 0.3181215137230482,
     "username": "squig3"
   },
   {
@@ -4884,7 +4884,7 @@
     "loves": 2236,
     "favorites": 2112,
     "views": 23113,
-    "weight": 0.31722580289837193,
+    "weight": 0.31714578881426886,
     "username": "FaceOs"
   },
   {
@@ -4897,7 +4897,7 @@
     "loves": 1268,
     "favorites": 1053,
     "views": 31422,
-    "weight": 0.316605988719,
+    "weight": 0.3165168033891338,
     "username": "Will_Wam"
   },
   {
@@ -4910,7 +4910,7 @@
     "loves": 3770,
     "favorites": 3221,
     "views": 89061,
-    "weight": 0.31137212304804124,
+    "weight": 0.31128788622591635,
     "username": "CrystalKeeper7"
   },
   {
@@ -4923,7 +4923,7 @@
     "loves": 1731,
     "favorites": 1525,
     "views": 50273,
-    "weight": 0.31015033143686294,
+    "weight": 0.31006575172592754,
     "username": "theChAOTiC"
   },
   {
@@ -4936,7 +4936,7 @@
     "loves": 10864,
     "favorites": 9927,
     "views": 220814,
-    "weight": 0.30858369921125756,
+    "weight": 0.30850299383206115,
     "username": "-PinPoint-"
   },
   {
@@ -4949,7 +4949,7 @@
     "loves": 32,
     "favorites": 29,
     "views": 385,
-    "weight": 0.30818020569281346,
+    "weight": 0.30810519133483727,
     "username": "mikeyaboy"
   },
   {
@@ -4962,7 +4962,7 @@
     "loves": 4115,
     "favorites": 3903,
     "views": 82218,
-    "weight": 0.30764971841705924,
+    "weight": 0.30756992488624263,
     "username": "oh261401"
   },
   {
@@ -4975,7 +4975,7 @@
     "loves": 32,
     "favorites": 23,
     "views": 331,
-    "weight": 0.30760895965709284,
+    "weight": 0.3075363652002248,
     "username": "st27028"
   },
   {
@@ -4988,7 +4988,7 @@
     "loves": 297,
     "favorites": 241,
     "views": 3274,
-    "weight": 0.30666974852429085,
+    "weight": 0.3065970001197271,
     "username": "HackerCat2"
   },
   {
@@ -5001,7 +5001,7 @@
     "loves": 763,
     "favorites": 705,
     "views": 14806,
-    "weight": 0.305788844791735,
+    "weight": 0.3057108108405986,
     "username": "awesome-llama-test"
   },
   {
@@ -5014,7 +5014,7 @@
     "loves": 1821,
     "favorites": 1659,
     "views": 22902,
-    "weight": 0.303042047637782,
+    "weight": 0.30297040775388345,
     "username": "BamBozzle"
   },
   {
@@ -5027,7 +5027,7 @@
     "loves": 7592,
     "favorites": 6837,
     "views": 205550,
-    "weight": 0.30195198778031657,
+    "weight": 0.30187470636687846,
     "username": "FUZZIE-WEASEL"
   },
   {
@@ -5040,7 +5040,7 @@
     "loves": 2039,
     "favorites": 1893,
     "views": 29218,
-    "weight": 0.2991853235268594,
+    "weight": 0.29911516514181563,
     "username": "theChAOTiC"
   },
   {
@@ -5053,7 +5053,7 @@
     "loves": 2472,
     "favorites": 2330,
     "views": 47722,
-    "weight": 0.2958067461263619,
+    "weight": 0.295736534370909,
     "username": "BamBozzle"
   },
   {
@@ -5066,7 +5066,7 @@
     "loves": 8415,
     "favorites": 8072,
     "views": 153193,
-    "weight": 0.2953956117790487,
+    "weight": 0.29532615616531255,
     "username": "awesome-llama"
   },
   {
@@ -5079,7 +5079,7 @@
     "loves": 46602,
     "favorites": 44885,
     "views": 1326528,
-    "weight": 0.2953437907886937,
+    "weight": 0.2952714686410293,
     "username": "FunnyAnimatorJimTV"
   },
   {
@@ -5092,7 +5092,7 @@
     "loves": 6341,
     "favorites": 5707,
     "views": 86258,
-    "weight": 0.29492053883017766,
+    "weight": 0.29485399441309434,
     "username": "GonSanVi"
   },
   {
@@ -5105,7 +5105,7 @@
     "loves": 90,
     "favorites": 74,
     "views": 1294,
-    "weight": 0.2938481369786953,
+    "weight": 0.29378182589823226,
     "username": "Hobbes_159"
   },
   {
@@ -5118,7 +5118,7 @@
     "loves": 12077,
     "favorites": 10942,
     "views": 275990,
-    "weight": 0.29252304431966997,
+    "weight": 0.2924541339971932,
     "username": "yoshihome"
   },
   {
@@ -5131,7 +5131,7 @@
     "loves": 35,
     "favorites": 30,
     "views": 1569,
-    "weight": 0.29238041978089724,
+    "weight": 0.29230845288131874,
     "username": "rolodo_"
   },
   {
@@ -5144,7 +5144,7 @@
     "loves": 4315,
     "favorites": 3722,
     "views": 77755,
-    "weight": 0.29176766003545407,
+    "weight": 0.2917009419990515,
     "username": "HollowGoblin"
   },
   {
@@ -5157,7 +5157,7 @@
     "loves": 3496,
     "favorites": 3184,
     "views": 108164,
-    "weight": 0.2903380375281555,
+    "weight": 0.29026911892905055,
     "username": "Will_Wam"
   },
   {
@@ -5170,7 +5170,7 @@
     "loves": 349,
     "favorites": 266,
     "views": 1877,
-    "weight": 0.29020334789212804,
+    "weight": 0.29015228093420414,
     "username": "RobFarley74"
   },
   {
@@ -5183,7 +5183,7 @@
     "loves": 6607,
     "favorites": 6093,
     "views": 204756,
-    "weight": 0.28808702200244657,
+    "weight": 0.28801977135498225,
     "username": "theChAOTiC"
   },
   {
@@ -5196,7 +5196,7 @@
     "loves": 1440,
     "favorites": 1260,
     "views": 26826,
-    "weight": 0.2866432198105142,
+    "weight": 0.2865798979768519,
     "username": "HollowGoblin"
   },
   {
@@ -5209,7 +5209,7 @@
     "loves": 4635,
     "favorites": 3692,
     "views": 81742,
-    "weight": 0.2863009145025086,
+    "weight": 0.2862382196994432,
     "username": "finnagin5"
   },
   {
@@ -5222,7 +5222,7 @@
     "loves": 10,
     "favorites": 9,
     "views": 120,
-    "weight": 0.28582850964526335,
+    "weight": 0.2857693956588504,
     "username": "Octos_Garbage"
   },
   {
@@ -5235,7 +5235,7 @@
     "loves": 42,
     "favorites": 32,
     "views": 361,
-    "weight": 0.2849049581450376,
+    "weight": 0.2848500979325381,
     "username": "Robostew"
   },
   {
@@ -5248,7 +5248,7 @@
     "loves": 1038,
     "favorites": 826,
     "views": 14115,
-    "weight": 0.2838538699797832,
+    "weight": 0.28379489238443556,
     "username": "MrCloudGame"
   },
   {
@@ -5261,7 +5261,7 @@
     "loves": 4742,
     "favorites": 4334,
     "views": 105813,
-    "weight": 0.2833997812222205,
+    "weight": 0.28333757044286256,
     "username": "FunnyAnimatorJimTV"
   },
   {
@@ -5274,7 +5274,7 @@
     "loves": 379,
     "favorites": 333,
     "views": 4660,
-    "weight": 0.28311840570189284,
+    "weight": 0.2830608109900738,
     "username": "SPACEBEAST"
   },
   {
@@ -5287,7 +5287,7 @@
     "loves": 4173,
     "favorites": 3773,
     "views": 95890,
-    "weight": 0.2830391283627083,
+    "weight": 0.28297700105332263,
     "username": "awesome-llama"
   },
   {
@@ -5300,7 +5300,7 @@
     "loves": 1401,
     "favorites": 1212,
     "views": 42055,
-    "weight": 0.2789191723894437,
+    "weight": 0.27885858430735555,
     "username": "maDU59_"
   },
   {
@@ -5313,7 +5313,7 @@
     "loves": 3137,
     "favorites": 2564,
     "views": 67587,
-    "weight": 0.27820194453430425,
+    "weight": 0.27814345547329006,
     "username": "HollowGoblin"
   },
   {
@@ -5326,7 +5326,7 @@
     "loves": 4157,
     "favorites": 3454,
     "views": 54022,
-    "weight": 0.2769185279978017,
+    "weight": 0.2768643416717716,
     "username": "HollowGoblin"
   },
   {
@@ -5339,7 +5339,7 @@
     "loves": 48,
     "favorites": 45,
     "views": 398,
-    "weight": 0.27620080104373496,
+    "weight": 0.2761514424851836,
     "username": "speakre"
   },
   {
@@ -5352,7 +5352,7 @@
     "loves": 65110,
     "favorites": 61571,
     "views": 4952224,
-    "weight": 0.2761404900100015,
+    "weight": 0.27607924188548144,
     "username": "theChAOTiC"
   },
   {
@@ -5365,7 +5365,7 @@
     "loves": 4550,
     "favorites": 4268,
     "views": 130015,
-    "weight": 0.27598469110542545,
+    "weight": 0.2759262960493614,
     "username": "Finlay_Cool"
   },
   {
@@ -5378,7 +5378,7 @@
     "loves": 3234,
     "favorites": 3105,
     "views": 39021,
-    "weight": 0.2753630134400119,
+    "weight": 0.2753104019138462,
     "username": "-RipeMangoes-"
   },
   {
@@ -5391,7 +5391,7 @@
     "loves": 9077,
     "favorites": 8587,
     "views": 215392,
-    "weight": 0.2751814465247168,
+    "weight": 0.2751244360988572,
     "username": "FunnyAnimatorJimTV"
   },
   {
@@ -5404,7 +5404,7 @@
     "loves": 900,
     "favorites": 826,
     "views": 12991,
-    "weight": 0.2747786334543333,
+    "weight": 0.2747249356898375,
     "username": "Bro8an"
   },
   {
@@ -5417,7 +5417,7 @@
     "loves": 9506,
     "favorites": 9209,
     "views": 599777,
-    "weight": 0.2741064858488463,
+    "weight": 0.274046989401315,
     "username": "BenjaminWins11"
   },
   {
@@ -5430,7 +5430,7 @@
     "loves": 5593,
     "favorites": 4989,
     "views": 91760,
-    "weight": 0.27399036891984807,
+    "weight": 0.27393625351939266,
     "username": "Chrome_Cat"
   },
   {
@@ -5443,7 +5443,7 @@
     "loves": 9457,
     "favorites": 8207,
     "views": 286536,
-    "weight": 0.27370978444380384,
+    "weight": 0.2736526571814018,
     "username": "super-maker-64"
   },
   {
@@ -5456,7 +5456,7 @@
     "loves": 357,
     "favorites": 239,
     "views": 4112,
-    "weight": 0.27354874682061053,
+    "weight": 0.2734976173101147,
     "username": "Chumie"
   },
   {
@@ -5469,7 +5469,7 @@
     "loves": 569,
     "favorites": 547,
     "views": 10094,
-    "weight": 0.272726285448554,
+    "weight": 0.2726724539442299,
     "username": "ThatHammerkind"
   },
   {
@@ -5482,7 +5482,7 @@
     "loves": 118,
     "favorites": 81,
     "views": 1276,
-    "weight": 0.2714439975772629,
+    "weight": 0.2713946462069916,
     "username": "GreenCatPixelart"
   },
   {
@@ -5495,7 +5495,7 @@
     "loves": 10993,
     "favorites": 9570,
     "views": 352904,
-    "weight": 0.2713040917972272,
+    "weight": 0.2712483167163299,
     "username": "griffpatch"
   },
   {
@@ -5508,7 +5508,7 @@
     "loves": 282,
     "favorites": 200,
     "views": 1667,
-    "weight": 0.2701268810320233,
+    "weight": 0.2700848328655645,
     "username": "Iliad-"
   },
   {
@@ -5521,7 +5521,7 @@
     "loves": 40,
     "favorites": 21,
     "views": 257,
-    "weight": 0.2698152557526879,
+    "weight": 0.2697723074445824,
     "username": "Jello-puff"
   },
   {
@@ -5534,7 +5534,7 @@
     "loves": 95,
     "favorites": 81,
     "views": 1786,
-    "weight": 0.26973395812926826,
+    "weight": 0.2696816260259216,
     "username": "52525rr"
   },
   {
@@ -5547,7 +5547,7 @@
     "loves": 4732,
     "favorites": 4199,
     "views": 23913,
-    "weight": 0.2683821165449775,
+    "weight": 0.26834298575449356,
     "username": "-Multinia-"
   },
   {
@@ -5560,7 +5560,7 @@
     "loves": 62,
     "favorites": 52,
     "views": 1404,
-    "weight": 0.2679734306398714,
+    "weight": 0.26792120919574225,
     "username": "SwiftyFoxStudios87"
   },
   {
@@ -5573,7 +5573,7 @@
     "loves": 491,
     "favorites": 431,
     "views": 7992,
-    "weight": 0.26785886068139975,
+    "weight": 0.2678085143622946,
     "username": "CodingPileOfDirt"
   },
   {
@@ -5586,7 +5586,7 @@
     "loves": 333,
     "favorites": 298,
     "views": 4894,
-    "weight": 0.26533550649507054,
+    "weight": 0.26528728026517406,
     "username": "-RipeMangoes-"
   },
   {
@@ -5599,7 +5599,7 @@
     "loves": 570,
     "favorites": 475,
     "views": 13531,
-    "weight": 0.26496758973392626,
+    "weight": 0.26491697762525435,
     "username": "SPACEBEAST"
   },
   {
@@ -5612,7 +5612,7 @@
     "loves": 830,
     "favorites": 766,
     "views": 20419,
-    "weight": 0.26458521039415817,
+    "weight": 0.2645346741862476,
     "username": "Yellow-Brain"
   },
   {
@@ -5625,7 +5625,7 @@
     "loves": 12621,
     "favorites": 11508,
     "views": 208236,
-    "weight": 0.26441751427841464,
+    "weight": 0.26436909137631953,
     "username": "chipm0nk"
   },
   {
@@ -5638,7 +5638,7 @@
     "loves": 576,
     "favorites": 465,
     "views": 6009,
-    "weight": 0.2640483543094203,
+    "weight": 0.26400339976306647,
     "username": "HollowGoblin"
   },
   {
@@ -5651,7 +5651,7 @@
     "loves": 1487,
     "favorites": 1172,
     "views": 48383,
-    "weight": 0.2637022066675671,
+    "weight": 0.2636511641218496,
     "username": "Davis9754"
   },
   {
@@ -5664,7 +5664,7 @@
     "loves": 15,
     "favorites": 13,
     "views": 218,
-    "weight": 0.2631554804068598,
+    "weight": 0.2631085596307564,
     "username": "AppleSauceScratch"
   },
   {
@@ -5677,7 +5677,7 @@
     "loves": 235,
     "favorites": 214,
     "views": 4131,
-    "weight": 0.2625310909424087,
+    "weight": 0.26248338729859844,
     "username": "SPACEBEAST"
   },
   {
@@ -5690,7 +5690,7 @@
     "loves": 5992,
     "favorites": 5810,
     "views": 77892,
-    "weight": 0.2614754749629841,
+    "weight": 0.26143022728958676,
     "username": "The_Updator"
   },
   {
@@ -5703,7 +5703,7 @@
     "loves": 38,
     "favorites": 34,
     "views": 463,
-    "weight": 0.26048433973420976,
+    "weight": 0.26044008024932847,
     "username": "littlebunny06"
   },
   {
@@ -5716,7 +5716,7 @@
     "loves": 590,
     "favorites": 451,
     "views": 9585,
-    "weight": 0.2597860189740461,
+    "weight": 0.25974029738164134,
     "username": "HollowGoblin"
   },
   {
@@ -5729,7 +5729,7 @@
     "loves": 139,
     "favorites": 131,
     "views": 2143,
-    "weight": 0.25564392766923044,
+    "weight": 0.25560074265563926,
     "username": "--TechHead--"
   },
   {
@@ -5742,7 +5742,7 @@
     "loves": 499,
     "favorites": 447,
     "views": 6061,
-    "weight": 0.2547079804363318,
+    "weight": 0.2546667462353936,
     "username": "Trooper_31"
   },
   {
@@ -5755,7 +5755,7 @@
     "loves": 6076,
     "favorites": 4854,
     "views": 62711,
-    "weight": 0.25357190494935283,
+    "weight": 0.2535323862118627,
     "username": "Berricake"
   },
   {
@@ -5768,7 +5768,7 @@
     "loves": 59,
     "favorites": 40,
     "views": 843,
-    "weight": 0.25324037893414947,
+    "weight": 0.253198881609286,
     "username": "h0rnet_15"
   },
   {
@@ -5781,7 +5781,7 @@
     "loves": 141,
     "favorites": 98,
     "views": 686,
-    "weight": 0.25258284962226785,
+    "weight": 0.2525509047435496,
     "username": "Kouzerumatsu"
   },
   {
@@ -5794,7 +5794,7 @@
     "loves": 67,
     "favorites": 31,
     "views": 349,
-    "weight": 0.252430581648489,
+    "weight": 0.25239792348733164,
     "username": "aIphabetica"
   },
   {
@@ -5807,7 +5807,7 @@
     "loves": 109,
     "favorites": 52,
     "views": 548,
-    "weight": 0.2523712199213668,
+    "weight": 0.25233898386777676,
     "username": "Applepietests"
   },
   {
@@ -5820,7 +5820,7 @@
     "loves": 4944,
     "favorites": 4380,
     "views": 114825,
-    "weight": 0.25190042397211865,
+    "weight": 0.25185732806363903,
     "username": "awesome-llama"
   },
   {
@@ -5833,7 +5833,7 @@
     "loves": 94,
     "favorites": 90,
     "views": 3698,
-    "weight": 0.2516591666750993,
+    "weight": 0.2516146045405321,
     "username": "SUPER_scratcher188"
   },
   {
@@ -5846,7 +5846,7 @@
     "loves": 78,
     "favorites": 40,
     "views": 430,
-    "weight": 0.25164187190087617,
+    "weight": 0.2516089140083704,
     "username": "Waleo"
   },
   {
@@ -5859,7 +5859,7 @@
     "loves": 425,
     "favorites": 398,
     "views": 5817,
-    "weight": 0.25120994238613187,
+    "weight": 0.2511697254620252,
     "username": "Altaraxia"
   },
   {
@@ -5872,7 +5872,7 @@
     "loves": 124,
     "favorites": 99,
     "views": 1201,
-    "weight": 0.25102311908759806,
+    "weight": 0.2509852980745862,
     "username": "Nolord"
   },
   {
@@ -5885,7 +5885,7 @@
     "loves": 296,
     "favorites": 168,
     "views": 2182,
-    "weight": 0.25037294009915717,
+    "weight": 0.250337663765847,
     "username": "Waleo"
   },
   {
@@ -5898,7 +5898,7 @@
     "loves": 156,
     "favorites": 148,
     "views": 3160,
-    "weight": 0.2501305554060956,
+    "weight": 0.250088941461138,
     "username": "datasix"
   },
   {
@@ -5911,7 +5911,7 @@
     "loves": 114,
     "favorites": 47,
     "views": 630,
-    "weight": 0.24954840353850538,
+    "weight": 0.24951626778919322,
     "username": "Waleo"
   },
   {
@@ -5924,7 +5924,7 @@
     "loves": 791,
     "favorites": 680,
     "views": 11402,
-    "weight": 0.24891112526096415,
+    "weight": 0.248871761937981,
     "username": "supermushy"
   },
   {
@@ -5937,7 +5937,7 @@
     "loves": 161,
     "favorites": 145,
     "views": 3745,
-    "weight": 0.24828091286351267,
+    "weight": 0.24823972348706275,
     "username": "ItsBlueyBOIII"
   },
   {
@@ -5950,7 +5950,7 @@
     "loves": 2950,
     "favorites": 2473,
     "views": 47066,
-    "weight": 0.24822079125406502,
+    "weight": 0.24818124279061232,
     "username": "Superspindelapan"
   },
   {
@@ -5963,7 +5963,7 @@
     "loves": 215,
     "favorites": 202,
     "views": 5241,
-    "weight": 0.24757278733999216,
+    "weight": 0.24753180018198728,
     "username": "WA2AB1"
   },
   {
@@ -5976,7 +5976,7 @@
     "loves": 705,
     "favorites": 617,
     "views": 11235,
-    "weight": 0.24746053299507273,
+    "weight": 0.2474213683348512,
     "username": "Altaraxia"
   },
   {
@@ -5989,7 +5989,7 @@
     "loves": 544,
     "favorites": 470,
     "views": 8703,
-    "weight": 0.24740074054358868,
+    "weight": 0.24736158640996328,
     "username": "-RipeMangoes-"
   },
   {
@@ -6002,7 +6002,7 @@
     "loves": 400,
     "favorites": 365,
     "views": 6642,
-    "weight": 0.24686884752181634,
+    "weight": 0.24682977754913027,
     "username": "Gherwit"
   },
   {
@@ -6015,7 +6015,7 @@
     "loves": 477,
     "favorites": 366,
     "views": 2973,
-    "weight": 0.24678397143784497,
+    "weight": 0.24675175933922247,
     "username": "37457"
   },
   {
@@ -6028,7 +6028,7 @@
     "loves": 676,
     "favorites": 630,
     "views": 6967,
-    "weight": 0.24675187174613072,
+    "weight": 0.24671559340969643,
     "username": "kenny2scratch"
   },
   {
@@ -6041,7 +6041,7 @@
     "loves": 3695,
     "favorites": 3534,
     "views": 69834,
-    "weight": 0.2463904128101936,
+    "weight": 0.2463510025242419,
     "username": "Henry_da_Cat"
   },
   {
@@ -6054,7 +6054,7 @@
     "loves": 60,
     "favorites": 49,
     "views": 1331,
-    "weight": 0.24628081588087833,
+    "weight": 0.2462408285338552,
     "username": "RETRO_DEVELOPER"
   },
   {
@@ -6067,7 +6067,7 @@
     "loves": 3076,
     "favorites": 2371,
     "views": 28359,
-    "weight": 0.24591213465118245,
+    "weight": 0.24587702340259007,
     "username": "hedgehog_blue"
   },
   {
@@ -6080,7 +6080,7 @@
     "loves": 2129,
     "favorites": 1963,
     "views": 48347,
-    "weight": 0.24589290249160894,
+    "weight": 0.2458530273129992,
     "username": "Finlay_Cool"
   },
   {
@@ -6093,7 +6093,7 @@
     "loves": 157,
     "favorites": 128,
     "views": 3051,
-    "weight": 0.24476023620486578,
+    "weight": 0.24472152291253185,
     "username": "mrCamelCase"
   },
   {
@@ -6106,7 +6106,7 @@
     "loves": 2110,
     "favorites": 1754,
     "views": 53879,
-    "weight": 0.24445653868063713,
+    "weight": 0.24441699606363454,
     "username": "surlo_gamez"
   },
   {
@@ -6119,7 +6119,7 @@
     "loves": 4361,
     "favorites": 4161,
     "views": 48058,
-    "weight": 0.24370277645240393,
+    "weight": 0.24366745227637687,
     "username": "squig3"
   },
   {
@@ -6132,7 +6132,7 @@
     "loves": 160,
     "favorites": 141,
     "views": 3162,
-    "weight": 0.24362842936302775,
+    "weight": 0.2435902074923239,
     "username": "griffpatchstats"
   },
   {
@@ -6145,7 +6145,7 @@
     "loves": 9,
     "favorites": 7,
     "views": 125,
-    "weight": 0.24353646266660994,
+    "weight": 0.24349989020246685,
     "username": "8E2131"
   },
   {
@@ -6158,7 +6158,7 @@
     "loves": 97,
     "favorites": 46,
     "views": 658,
-    "weight": 0.24303214532838754,
+    "weight": 0.24300069256057252,
     "username": "Waleo"
   },
   {
@@ -6171,7 +6171,7 @@
     "loves": 252,
     "favorites": 158,
     "views": 1887,
-    "weight": 0.24224885730547469,
+    "weight": 0.2422169066186202,
     "username": "PlXELS"
   },
   {
@@ -6184,7 +6184,7 @@
     "loves": 3314,
     "favorites": 3057,
     "views": 72769,
-    "weight": 0.24159307555016502,
+    "weight": 0.24155545985420002,
     "username": "Theoul"
   },
   {
@@ -6197,7 +6197,7 @@
     "loves": 1564,
     "favorites": 1235,
     "views": 66120,
-    "weight": 0.2414399782865755,
+    "weight": 0.24140070477146494,
     "username": "haywireSSC"
   },
   {
@@ -6210,7 +6210,7 @@
     "loves": 184,
     "favorites": 114,
     "views": 1329,
-    "weight": 0.24125140793787994,
+    "weight": 0.24122015310370834,
     "username": "Ampara2"
   },
   {
@@ -6223,7 +6223,7 @@
     "loves": 2958,
     "favorites": 2294,
     "views": 43396,
-    "weight": 0.24099554304836143,
+    "weight": 0.24095987968640525,
     "username": "s4080788"
   },
   {
@@ -6236,7 +6236,7 @@
     "loves": 3201,
     "favorites": 2205,
     "views": 25965,
-    "weight": 0.23853026191875654,
+    "weight": 0.2384992238061201,
     "username": "ArtsyStrawberry"
   },
   {
@@ -6249,7 +6249,7 @@
     "loves": 4268,
     "favorites": 3494,
     "views": 35516,
-    "weight": 0.23711142624125187,
+    "weight": 0.2370807810073462,
     "username": "Hobson-TV"
   },
   {
@@ -6262,7 +6262,7 @@
     "loves": 14,
     "favorites": 7,
     "views": 110,
-    "weight": 0.23609685128472604,
+    "weight": 0.236067014907616,
     "username": "hirota1ro"
   },
   {
@@ -6275,7 +6275,7 @@
     "loves": 1159,
     "favorites": 965,
     "views": 11016,
-    "weight": 0.23537541685813454,
+    "weight": 0.23534460023406537,
     "username": "skyset"
   },
   {
@@ -6288,7 +6288,7 @@
     "loves": 577,
     "favorites": 493,
     "views": 10833,
-    "weight": 0.23533066977619813,
+    "weight": 0.2352965584411413,
     "username": "-Orbitron-"
   },
   {
@@ -6301,7 +6301,7 @@
     "loves": 847,
     "favorites": 725,
     "views": 7772,
-    "weight": 0.23525658898451943,
+    "weight": 0.23522604210136158,
     "username": "GeniusApple"
   },
   {
@@ -6314,7 +6314,7 @@
     "loves": 342,
     "favorites": 307,
     "views": 3792,
-    "weight": 0.23519006621817484,
+    "weight": 0.23515842035709822,
     "username": "squig3"
   },
   {
@@ -6327,7 +6327,7 @@
     "loves": 2034,
     "favorites": 1853,
     "views": 16610,
-    "weight": 0.2351770677277497,
+    "weight": 0.23514732374136918,
     "username": "Noentiendo2005"
   },
   {
@@ -6340,7 +6340,7 @@
     "loves": 379,
     "favorites": 328,
     "views": 7177,
-    "weight": 0.2343498299314016,
+    "weight": 0.23431612997241053,
     "username": "Trooper_31"
   },
   {
@@ -6353,7 +6353,7 @@
     "loves": 3725,
     "favorites": 3185,
     "views": 64107,
-    "weight": 0.23389131077230804,
+    "weight": 0.2338581717367888,
     "username": "alps88"
   },
   {
@@ -6366,7 +6366,7 @@
     "loves": 167,
     "favorites": 156,
     "views": 5395,
-    "weight": 0.2335246062053416,
+    "weight": 0.23348975580624387,
     "username": "-Rex-Test-"
   },
   {
@@ -6379,7 +6379,7 @@
     "loves": 1108,
     "favorites": 945,
     "views": 17341,
-    "weight": 0.23325790594477117,
+    "weight": 0.233225424906793,
     "username": "-Rex-"
   },
   {
@@ -6392,7 +6392,7 @@
     "loves": 2716,
     "favorites": 2190,
     "views": 33090,
-    "weight": 0.23308959578396077,
+    "weight": 0.23305833262363443,
     "username": "hanngousuihann"
   },
   {
@@ -6405,7 +6405,7 @@
     "loves": 595,
     "favorites": 507,
     "views": 5691,
-    "weight": 0.23304558922079582,
+    "weight": 0.23301567626201247,
     "username": "Mazmythic"
   },
   {
@@ -6418,7 +6418,7 @@
     "loves": 30,
     "favorites": 21,
     "views": 389,
-    "weight": 0.23282715773361892,
+    "weight": 0.23279569913820092,
     "username": "mindsteins"
   },
   {
@@ -6431,7 +6431,7 @@
     "loves": 4060,
     "favorites": 3615,
     "views": 96703,
-    "weight": 0.23281160948877994,
+    "weight": 0.23277786297561434,
     "username": "xamuil2"
   },
   {
@@ -6444,7 +6444,7 @@
     "loves": 342,
     "favorites": 316,
     "views": 7498,
-    "weight": 0.23268308278830258,
+    "weight": 0.2326496423805398,
     "username": "squig3"
   },
   {
@@ -6457,7 +6457,7 @@
     "loves": 36,
     "favorites": 28,
     "views": 344,
-    "weight": 0.23237357374997247,
+    "weight": 0.23234393449767418,
     "username": "Kouzerumatsu"
   },
   {
@@ -6470,7 +6470,7 @@
     "loves": 120,
     "favorites": 91,
     "views": 1135,
-    "weight": 0.23142918614827662,
+    "weight": 0.2313999811008905,
     "username": "Kouzerumatsu"
   },
   {
@@ -6483,7 +6483,7 @@
     "loves": 73,
     "favorites": 45,
     "views": 744,
-    "weight": 0.2312486053803873,
+    "weight": 0.2312190421403516,
     "username": "sokrrates"
   },
   {
@@ -6496,7 +6496,7 @@
     "loves": 218,
     "favorites": 161,
     "views": 2654,
-    "weight": 0.23119719974759642,
+    "weight": 0.2311667251130227,
     "username": "unknown_user"
   },
   {
@@ -6509,7 +6509,7 @@
     "loves": 314,
     "favorites": 215,
     "views": 3294,
-    "weight": 0.23104602754420578,
+    "weight": 0.23101638561706325,
     "username": "DarkNinja360"
   },
   {
@@ -6522,7 +6522,7 @@
     "loves": 393,
     "favorites": 314,
     "views": 4202,
-    "weight": 0.23061326887922107,
+    "weight": 0.23058369691094144,
     "username": "TstPro"
   },
   {
@@ -6535,7 +6535,7 @@
     "loves": 27,
     "favorites": 14,
     "views": 289,
-    "weight": 0.22980703485102688,
+    "weight": 0.2297777784433486,
     "username": "Kouzerumatsu"
   },
   {
@@ -6548,7 +6548,7 @@
     "loves": 193,
     "favorites": 177,
     "views": 4868,
-    "weight": 0.22911723555046873,
+    "weight": 0.2290849806913721,
     "username": "Sheldon_SC"
   },
   {
@@ -6561,7 +6561,7 @@
     "loves": 1354,
     "favorites": 1129,
     "views": 17002,
-    "weight": 0.22835084097445807,
+    "weight": 0.22832137728389368,
     "username": "PokeNinjaGuy"
   },
   {
@@ -6574,7 +6574,7 @@
     "loves": 2592,
     "favorites": 2328,
     "views": 40140,
-    "weight": 0.22790355581120214,
+    "weight": 0.22787338661251733,
     "username": "ButteredToast9"
   },
   {
@@ -6587,7 +6587,7 @@
     "loves": 276,
     "favorites": 200,
     "views": 4133,
-    "weight": 0.2270784179504415,
+    "weight": 0.22704871875765772,
     "username": "08jackt"
   },
   {
@@ -6600,7 +6600,7 @@
     "loves": 714,
     "favorites": 607,
     "views": 10949,
-    "weight": 0.22670656146786627,
+    "weight": 0.22667692147958896,
     "username": "GonSanVi"
   },
   {
@@ -6613,7 +6613,7 @@
     "loves": 71,
     "favorites": 65,
     "views": 1096,
-    "weight": 0.22670334569144512,
+    "weight": 0.22667368157656034,
     "username": "ZenitDS"
   },
   {
@@ -6626,7 +6626,7 @@
     "loves": 85,
     "favorites": 58,
     "views": 1102,
-    "weight": 0.22669831105600327,
+    "weight": 0.22666936513128275,
     "username": "Howtomakeausername"
   },
   {
@@ -6639,7 +6639,7 @@
     "loves": 74,
     "favorites": 61,
     "views": 1177,
-    "weight": 0.22631503915486054,
+    "weight": 0.22628542078338795,
     "username": "k0stya"
   },
   {
@@ -6652,7 +6652,7 @@
     "loves": 2753,
     "favorites": 2484,
     "views": 58420,
-    "weight": 0.22626048300089338,
+    "weight": 0.2262299360075573,
     "username": "samirin"
   },
   {
@@ -6665,7 +6665,7 @@
     "loves": 1079,
     "favorites": 887,
     "views": 19290,
-    "weight": 0.22483313775224112,
+    "weight": 0.2248037147410662,
     "username": "squig3"
   },
   {
@@ -6678,7 +6678,7 @@
     "loves": 7620,
     "favorites": 6965,
     "views": 140841,
-    "weight": 0.224457603358301,
+    "weight": 0.22442822543577962,
     "username": "alphabetica"
   },
   {
@@ -6691,7 +6691,7 @@
     "loves": 6531,
     "favorites": 6008,
     "views": 93153,
-    "weight": 0.22420447920645772,
+    "weight": 0.2241761243480055,
     "username": "h0rnet15"
   },
   {
@@ -6704,7 +6704,7 @@
     "loves": 2114,
     "favorites": 1844,
     "views": 41046,
-    "weight": 0.22413314860359,
+    "weight": 0.22410374943848313,
     "username": "h0rnet15"
   },
   {
@@ -6717,7 +6717,7 @@
     "loves": 1036,
     "favorites": 927,
     "views": 23288,
-    "weight": 0.22260623723243825,
+    "weight": 0.22257704710929982,
     "username": "ggenije"
   },
   {
@@ -6730,7 +6730,7 @@
     "loves": 6161,
     "favorites": 5127,
     "views": 114064,
-    "weight": 0.22177362291214914,
+    "weight": 0.22174532160936894,
     "username": "applepiesleth"
   },
   {
@@ -6743,7 +6743,7 @@
     "loves": 30,
     "favorites": 23,
     "views": 557,
-    "weight": 0.22130829435510804,
+    "weight": 0.22128016911527934,
     "username": "Koopafriend"
   },
   {
@@ -6756,7 +6756,7 @@
     "loves": 405,
     "favorites": 309,
     "views": 13165,
-    "weight": 0.22122965995970773,
+    "weight": 0.22120021577318658,
     "username": "OSWars"
   },
   {
@@ -6769,7 +6769,7 @@
     "loves": 25,
     "favorites": 12,
     "views": 496,
-    "weight": 0.22097786873513375,
+    "weight": 0.22094967871468715,
     "username": "sokrrates"
   },
   {
@@ -6782,7 +6782,7 @@
     "loves": 265,
     "favorites": 233,
     "views": 10559,
-    "weight": 0.22087215037136312,
+    "weight": 0.22084250944699044,
     "username": "Zerofile"
   },
   {
@@ -6795,7 +6795,7 @@
     "loves": 1565,
     "favorites": 1288,
     "views": 32378,
-    "weight": 0.22078840186612134,
+    "weight": 0.22076016954425418,
     "username": "PutneyCat"
   },
   {
@@ -6808,7 +6808,7 @@
     "loves": 184,
     "favorites": 155,
     "views": 2947,
-    "weight": 0.22047007020779583,
+    "weight": 0.2204427483456083,
     "username": "karkade35"
   },
   {
@@ -6821,7 +6821,7 @@
     "loves": 7829,
     "favorites": 6642,
     "views": 276941,
-    "weight": 0.2203839643301576,
+    "weight": 0.22035471956577557,
     "username": "griffpatch"
   },
   {
@@ -6834,7 +6834,7 @@
     "loves": 47,
     "favorites": 38,
     "views": 1584,
-    "weight": 0.22001540584263182,
+    "weight": 0.2199863973101195,
     "username": "anate123456"
   },
   {
@@ -6847,7 +6847,7 @@
     "loves": 463,
     "favorites": 344,
     "views": 6410,
-    "weight": 0.21941291130105517,
+    "weight": 0.2193865126670059,
     "username": "hedgehog_blue"
   },
   {
@@ -6860,7 +6860,7 @@
     "loves": 918,
     "favorites": 815,
     "views": 24678,
-    "weight": 0.21889718831251465,
+    "weight": 0.2188690744279325,
     "username": "PutneyCat"
   },
   {
@@ -6873,7 +6873,7 @@
     "loves": 6113,
     "favorites": 5905,
     "views": 806211,
-    "weight": 0.2164896604909406,
+    "weight": 0.21646078012886005,
     "username": "pandakun"
   },
   {
@@ -6886,7 +6886,7 @@
     "loves": 3922,
     "favorites": 3397,
     "views": 104607,
-    "weight": 0.21418392619793403,
+    "weight": 0.21415767197719526,
     "username": "ZBiddy"
   },
   {
@@ -6899,7 +6899,7 @@
     "loves": 1311,
     "favorites": 1089,
     "views": 41521,
-    "weight": 0.21402352229496677,
+    "weight": 0.21399701040985733,
     "username": "ZBiddy"
   },
   {
@@ -6912,7 +6912,7 @@
     "loves": 246764,
     "favorites": 223088,
     "views": 21487481,
-    "weight": 0.21262965972324213,
+    "weight": 0.2126025780372905,
     "username": "griffpatch"
   },
   {
@@ -6925,7 +6925,7 @@
     "loves": 1413,
     "favorites": 1251,
     "views": 25863,
-    "weight": 0.21013262505520647,
+    "weight": 0.21010872758485238,
     "username": "04tmoody"
   },
   {
@@ -6938,7 +6938,7 @@
     "loves": 1393,
     "favorites": 1079,
     "views": 32485,
-    "weight": 0.20533205094694354,
+    "weight": 0.205309278538187,
     "username": "TheGreenFlash"
   },
   {
@@ -6951,7 +6951,7 @@
     "loves": 7405,
     "favorites": 6615,
     "views": 64511,
-    "weight": 0.2041529260515027,
+    "weight": 0.2041334859727859,
     "username": "WazzoTV"
   },
   {
@@ -6964,7 +6964,7 @@
     "loves": 2561,
     "favorites": 2070,
     "views": 32162,
-    "weight": 0.201269539156104,
+    "weight": 0.20124964209519933,
     "username": "Hobson-TV"
   },
   {
@@ -6977,7 +6977,7 @@
     "loves": 7529,
     "favorites": 6549,
     "views": 105057,
-    "weight": 0.1962560421081573,
+    "weight": 0.19623735402866985,
     "username": "WazzoTV"
   },
   {
@@ -6990,7 +6990,7 @@
     "loves": 192,
     "favorites": 143,
     "views": 1517,
-    "weight": 0.1960960881498391,
+    "weight": 0.19607930183029315,
     "username": "Ellenion"
   },
   {
@@ -7003,7 +7003,7 @@
     "loves": 132,
     "favorites": 92,
     "views": 7041,
-    "weight": 0.19552900441165982,
+    "weight": 0.1955084540138508,
     "username": "Daria_Shu"
   },
   {
@@ -7016,7 +7016,7 @@
     "loves": 2007,
     "favorites": 1657,
     "views": 34156,
-    "weight": 0.1938910035546161,
+    "weight": 0.1938725410025042,
     "username": "WazzoTV"
   },
   {
@@ -7029,7 +7029,7 @@
     "loves": 310,
     "favorites": 271,
     "views": 8390,
-    "weight": 0.1919296316743181,
+    "weight": 0.19191094223968325,
     "username": "Java_Programmer"
   },
   {
@@ -7042,7 +7042,7 @@
     "loves": 335,
     "favorites": 283,
     "views": 6938,
-    "weight": 0.19049940642559057,
+    "weight": 0.19048155780738257,
     "username": "-RipeMangoes-"
   },
   {
@@ -7055,7 +7055,7 @@
     "loves": 4287,
     "favorites": 3517,
     "views": 25282,
-    "weight": 0.1887292563070306,
+    "weight": 0.18871546753730672,
     "username": "MartinBraendli"
   },
   {
@@ -7068,7 +7068,7 @@
     "loves": 428,
     "favorites": 310,
     "views": 3628,
-    "weight": 0.18769279763087113,
+    "weight": 0.18767790128900105,
     "username": "TheLogFather"
   },
   {
@@ -7081,7 +7081,7 @@
     "loves": 2521,
     "favorites": 2090,
     "views": 35022,
-    "weight": 0.18633960222178989,
+    "weight": 0.18632369682934882,
     "username": "MartinBraendli"
   },
   {
@@ -7094,7 +7094,7 @@
     "loves": 331,
     "favorites": 272,
     "views": 4484,
-    "weight": 0.1860596908058151,
+    "weight": 0.1860439158518321,
     "username": "MartinBraendli2"
   },
   {
@@ -7107,7 +7107,7 @@
     "loves": 1945,
     "favorites": 1476,
     "views": 36197,
-    "weight": 0.18519607150255668,
+    "weight": 0.1851798945922976,
     "username": "kevin_eleven_1234"
   },
   {
@@ -7120,7 +7120,7 @@
     "loves": 9543,
     "favorites": 8661,
     "views": 96051,
-    "weight": 0.18458099382847867,
+    "weight": 0.18456634216242007,
     "username": "AlphaAxle"
   },
   {
@@ -7133,7 +7133,7 @@
     "loves": 3028,
     "favorites": 2598,
     "views": 21220,
-    "weight": 0.18436844213694178,
+    "weight": 0.18435497572237794,
     "username": "MartinBraendli"
   },
   {
@@ -7146,7 +7146,7 @@
     "loves": 37,
     "favorites": 37,
     "views": 822,
-    "weight": 0.18387453663533018,
+    "weight": 0.18385843640085386,
     "username": "aellsworth"
   },
   {
@@ -7159,7 +7159,7 @@
     "loves": 15,
     "favorites": 11,
     "views": 246,
-    "weight": 0.18028051324598032,
+    "weight": 0.18026584046517466,
     "username": "shinkansen"
   },
   {
@@ -7172,7 +7172,7 @@
     "loves": 16398,
     "favorites": 15755,
     "views": 562844,
-    "weight": 0.1792318725176612,
+    "weight": 0.17921651274308198,
     "username": "firstject"
   },
   {
@@ -7185,7 +7185,7 @@
     "loves": 175,
     "favorites": 118,
     "views": 2894,
-    "weight": 0.1719619184828035,
+    "weight": 0.1719492260492016,
     "username": "Layzej"
   },
   {
@@ -7198,7 +7198,7 @@
     "loves": 2821,
     "favorites": 2482,
     "views": 35050,
-    "weight": 0.16926902605833657,
+    "weight": 0.1692573996373225,
     "username": "Finlay_Cool"
   },
   {
@@ -7211,7 +7211,7 @@
     "loves": 44475,
     "favorites": 40783,
     "views": 1338762,
-    "weight": 0.16923850875369006,
+    "weight": 0.16922575192311637,
     "username": "griffpatch"
   },
   {
@@ -7224,7 +7224,7 @@
     "loves": 6253,
     "favorites": 5503,
     "views": 267071,
-    "weight": 0.1654136665951491,
+    "weight": 0.16540154017625847,
     "username": "uplift"
   },
   {
@@ -7237,7 +7237,7 @@
     "loves": 513,
     "favorites": 451,
     "views": 9717,
-    "weight": 0.1620703421422552,
+    "weight": 0.16205960875631614,
     "username": "TiberiumFusion"
   },
   {
@@ -7250,7 +7250,7 @@
     "loves": 28673,
     "favorites": 24619,
     "views": 2455939,
-    "weight": 0.15463021019602613,
+    "weight": 0.15462012100620035,
     "username": "WO997"
   },
   {
@@ -7263,7 +7263,7 @@
     "loves": 48,
     "favorites": 45,
     "views": 842,
-    "weight": 0.13598379571341204,
+    "weight": 0.13597759100197002,
     "username": "Lightnin"
   }
 ]
