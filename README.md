@@ -1,2 +1,2 @@
-# bettertrending
-Compact and minimal trending page for Scratch, powered by a custom algorithm
+# ScratchExplore
+ScratchExplore is a compact and minimal explore page for Scratch, powered by a custom algorithm designed to boost quality projects.
