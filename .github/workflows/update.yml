@@ -1,4 +1,4 @@
-name: Update Trending
+name: Update Explore
 
 on:
   schedule:
@@ -29,5 +29,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/trending.json
-          git commit -m "Update trending data" || echo "No changes to commit"
+          git commit -m "Update explore data" || echo "No changes to commit"
           git push
