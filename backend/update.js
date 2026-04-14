@@ -56,7 +56,8 @@ const curators = [
     'PlXELS',
     'viimo',
     'PokeNinjaGuy',
-    'shock59'
+    'shock59',
+    'DevIog'
 ]
 
 async function getFavorites(user) {
