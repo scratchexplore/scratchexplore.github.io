@@ -12,7 +12,7 @@ function addProject(project) {
                 <div class="profile">
                     <img class="profile-picture" src="${project.avatar}">
                     <div class="profile-text">
-                        <h2 class="card-header">${project.title}</h2>
+                        <h2 class="card-header">${DOMPurify.sanitize(project.title)}</h2>
                         <p class="card-author">${project.username}</p>
                     </div>
                 </div>
