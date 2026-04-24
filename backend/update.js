@@ -1,64 +1,10 @@
 const fs = require('fs');
 const path = require("path")
 
-let savedProjects = {};
+// If you are on this list and you would rather not be, you can contact me on scratch @Penthusiast
+const curators = require('./curators.json')
 
-// Will add more.
-const curators = [
-    'Penthusiast',
-    'man-o-valor',
-    'Chrome_Cat',
-    'theChAOTiC',
-    'BamBozzle',
-    'awesome-llama',
-    'Will_Wam',
-    'rat-violi',
-    'kevin_eleven_1234',
-    '--Loot--',
-    'RememberNovember',
-    'HollowGoblin',
-    'yoshihome',
-    'MathematicProjects',
-    'FaceOs',
-    '-KingMidas-',
-    'Robostew',
-    'SpinningCube',
-    'alexandretherrien',
-    's_federici',
-    'axolotan',
-    '1BellaPup',
-    'ChessProking-tm',
-    'samkov',
-    'ChuckSploder',
-    'Derble',
-    'finnagin5',
-    'oh261401',
-    'piano_miles',
-    'MathMathMath',
-    'alps88',
-    'skyset',
-    'alphabetica',
-    'ggenije',
-    'Hobson-TV',
-    'dillyd',
-    'Dinosu',
-    'nembence',
-    '52525rr',
-    'PullJosh',
-    'MonkeyBean2',
-    'IguanaLover',
-    'Mr-Mathmatical',
-    'leszpio',
-    'adeoguntechno',
-    'integrated',
-    'Haudio',
-    'vubi',
-    'PlXELS',
-    'viimo',
-    'PokeNinjaGuy',
-    'shock59',
-    'DevIog'
-]
+let savedProjects = {};
 
 async function getFavorites(user) {
     const url = `https://api.scratch.mit.edu/users/${user}/favorites`;
