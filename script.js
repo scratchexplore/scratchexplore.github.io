@@ -1,7 +1,7 @@
 const container = document.getElementById('container');
 const button = document.getElementById('load');
 
-const projects = await fetch("./data/trending.json");
+const projects = await fetch("https://raw.githubusercontent.com/scratchexplore/backend/refs/heads/main/data/trending.json");
 const data = await projects.json();
 
 function addProject(project) {
