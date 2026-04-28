@@ -2,7 +2,8 @@ const fs = require('fs');
 const path = require("path")
 
 // If you are on this list and you would rather not be, you can contact me on scratch @Penthusiast
-const curators = require('./curators.json')
+const CURATORS = require('./curators.json')
+const LIMIT = 350;
 
 let savedProjects = {};
 
@@ -38,29 +39,19 @@ function sleep(ms) {
 function weight(project) {
     const shared = new Date(project.shared);
     const now = new Date();
-
-    const age = (now - shared) / (1000 * 60 * 60 * 24 * 30);
-    const ageWeight = 2 / (Math.sqrt(age) + 1);
-
-    const viewToLoveWeight = 1 + project.loves / Math.max(project.views, 20);
-
-    const curatorsWeight = Math.sqrt(project.count);
-    
-    return (curatorsWeight * viewToLoveWeight * ageWeight);
+    const age = (now - shared) / (1000 * 60 * 60 * 24 * 40);
+    const ageWeight = 2 / (age + 1);
+    const curatorsWeight = project.count; 
+    return (curatorsWeight * ageWeight);
 }
 
 (async () => {
-    for (const curator of curators) {
+    for (const curator of CURATORS) {
         const favorites = await getFavorites(curator);
-        console.log(`Fetched favorites from ${curator}`);
-
         for (const project of favorites) {
             if (savedProjects[project.id]) {
                 savedProjects[project.id].count++;
             } else {
-                // Have had an issue with people loving projects and
-                // them being unshared later. Still persists in the api
-                // and it causes a fetch error.
                 if (project.is_published) {
                     savedProjects[project.id] = {
                         count: 1,
@@ -69,10 +60,6 @@ function weight(project) {
                         shared: project.history.shared,
                         banner: project.image,
                         avatar: project.author.profile.images['32x32'],
-                        // My biggest possible beef with the api is perhaps the fact that
-                        // while it includes all sorts of information about the user
-                        // it doesn't include the username, which might be the most
-                        // important part. 
                         loves: project.stats.loves,
                         favorites: project.stats.favorites,
                         views: project.stats.views
@@ -81,26 +68,28 @@ function weight(project) {
             }
         }
 
-        // Since this script runs once per day, we can afford to let the servers
-        // have some peace. Might have to rethink if we really add a ton more curators.
-        // Either way scratch is ratelimiting now and I would prefer to be safe.
-        await sleep(1000);
+        await sleep(100);
     }
+
+    console.log('Finished discovering projects, processing')
 
     let projects = Object.values(savedProjects);
 
     // Since scratch just doesn't return usernames we have to fetch 
     // per project to get the username lol
-    console.log('Resolving usernames');
+    
+    projects = projects.map(project => {
+        project.weight = weight(project);
+        return project;
+    }).sort((a, b) => b.weight - a.weight).slice(0, LIMIT);
+
+    console.log(`Resolving usernames for ${projects.length} projects`);
 
     for (const project of projects) {
-        project.weight = weight(project);
         const username = await getUsername(project.id);
         project.username = username;
-        await sleep(200);
+        await sleep(20);
     }
-
-    projects.sort((a, b) => b.weight - a.weight);
 
     fs.writeFileSync(path.join(__dirname, "../data/trending.json"), JSON.stringify(projects, null, 2))
 })();
